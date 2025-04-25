@@ -1,0 +1,60 @@
+#########################################
+# Unity-generated files
+#########################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Assets/Plugins/Editor/JetBrains*
+
+#########################################
+# Visual Studio / JetBrains Rider / VS Code
+#########################################
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+.idea/
+.vscode/
+*.code-workspace
+
+#########################################
+# OS-generated files
+#########################################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+#########################################
+# Unity Collaborate
+#########################################
+.collab/
+
+#########################################
+# Plastic SCM (если не используете)
+#########################################
+.plastic/
+ignore.conf
+
+#########################################
+# Crashlytics (если используется)
+#########################################
+crashlytics-build.properties
