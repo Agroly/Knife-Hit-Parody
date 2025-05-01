@@ -6,11 +6,13 @@ using UnityEngine;
 [RequireComponent (typeof(Collider2D))]
 public class Knife : MonoBehaviour
 {
-    private SpriteRenderer spriteRenderer;
-    [SerializeField] private KnifeSkin skin;
-    private Rigidbody2D rb;
+    
+    [SerializeField] private KnifeSkinDataSO skin;
+    [SerializeField] private float shootForce = 10f;
 
-    [SerializeField] private float shootForce = 10f;  
+    private SpriteRenderer spriteRenderer;
+    private Rigidbody2D rb;
+    public bool IsStuck { get; private set; }
 
     private void Awake()
     {
@@ -29,7 +31,7 @@ public class Knife : MonoBehaviour
         yield return 1f;
     }
 
-    public void SetSkin(KnifeSkin newSkin)
+    public void SetSkin(KnifeSkinDataSO newSkin)
     {
         skin = newSkin;
         ApplySkin();
@@ -46,34 +48,25 @@ public class Knife : MonoBehaviour
     {
         if (collision.gameObject.TryGetComponent<Target>(out var target))
         {
-            ContactPoint2D contact = collision.GetContact(0);
-            StickToTarget(target.transform, contact.point);
+            StickToTarget(target.transform);
             target.Hit();
         }
     }
 
-    private void StickToTarget(Transform targetTransform, Vector2 contactPoint)
+    private void StickToTarget(Transform targetTransform)
     {
-        rb.linearVelocity = Vector2.zero;
-        rb.bodyType = RigidbodyType2D.Kinematic;
         GetComponent<Collider2D>().enabled = false;
-
-        // Направление от центра цели к точке удара
-        Vector2 direction = (Vector2)targetTransform.position - (Vector2)contactPoint;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-
-        // Поворот ножа так, чтобы он был перпендикулярен краю цели
-        transform.rotation = Quaternion.Euler(0f, 0f, angle - 90f);
-
-        // Прикрепляем нож к цели
+        rb.linearVelocity = Vector2.zero;
+        rb.angularVelocity = 0f;
+        rb.bodyType = RigidbodyType2D.Kinematic;
         transform.SetParent(targetTransform);
+        IsStuck = true;
     }
 
     public void Shoot()
     {
         if (rb != null)
         {
-            // Направляем нож вверх, при этом добавляем силу к Rigidbody2D
             rb.linearVelocity = Vector2.zero;  // Обнуляем текущую скорость
             rb.AddForce(Vector2.up * shootForce, ForceMode2D.Impulse);  // Применяем силу вверх
         }

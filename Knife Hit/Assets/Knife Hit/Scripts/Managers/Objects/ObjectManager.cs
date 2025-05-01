@@ -1,9 +1,12 @@
+using NUnit.Framework;
 using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
-public class GameObjectsController : MonoBehaviour
+public class ObjectManager : MonoBehaviour
 {
-    public static GameObjectsController Instance { get; private set; }
+    public static ObjectManager Instance { get; private set; }
 
     [Header("Prefabs")]
     [SerializeField] private Knife knifePrefab;
@@ -15,6 +18,7 @@ public class GameObjectsController : MonoBehaviour
 
     private Knife currentKnife;
     private Target currentTarget;
+    public KnivesController knivesController;
 
     private void Awake()
     {
@@ -25,12 +29,8 @@ public class GameObjectsController : MonoBehaviour
         }     
         Instance = this;
     }
-    private void Start()
-    {
-        StartCoroutine(SpawnKnives());
-    }
 
-    IEnumerator SpawnKnives()
+    public IEnumerator SpawnKnives()
     {
         while (true)
         {
@@ -41,14 +41,22 @@ public class GameObjectsController : MonoBehaviour
     public void SpawnKnife()
     {
         currentKnife = Instantiate(knifePrefab, knifeSpawnPoint.position, Quaternion.identity);
-
+        knivesController.RegisterKnife(currentKnife);
     }
 
     public void SpawnTarget()
     {
         currentTarget = Instantiate(targetPrefab, targetSpawnPoint.position, Quaternion.identity);
     }
+    public void DestroyAll()
+    {
+        if (currentTarget != null)
+        {
+            Destroy(currentTarget.gameObject);
+        }
 
+        knivesController.DestroyAllKnives();
+    }
     public void SpawnLevelObjects()
     {
         SpawnTarget();

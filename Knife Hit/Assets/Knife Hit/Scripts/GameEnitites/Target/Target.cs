@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 [RequireComponent(typeof(SpriteRenderer))]
@@ -7,7 +8,8 @@ public class Target : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     [SerializeField] private TargetData targetData; 
 
-    private int currentHits = 0;  
+    private int currentHits = 0;
+    private float destructionTime = 0.3f;
 
     private void Awake()
     {
@@ -40,21 +42,26 @@ public class Target : MonoBehaviour
     // Метод для обработки попадания ножа
     public void Hit()
     {
+        Debug.Log("Hit");
         currentHits++;
         if (currentHits >= targetData.knifeHitsRequired)
         {
-            DestroyTarget();
+            StartCoroutine(DestroyTarget());
         }
     }
 
     // Метод для уничтожения цели
-    private void DestroyTarget()
+    IEnumerator DestroyTarget()
     {      
         if (targetData.targetType == TargetType.Boss)
         {
             // Специальная логика для босса
             Debug.Log("Boss defeated!");
         }
+        spriteRenderer.sprite = null;
+        StartCoroutine(ObjectManager.Instance.knivesController.DestroyStuckKnives());
+        yield return new WaitForSeconds(destructionTime);
+        ObjectManager.Instance.SpawnTarget();
         Destroy(gameObject);
     }
 }
