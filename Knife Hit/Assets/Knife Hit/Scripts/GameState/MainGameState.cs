@@ -6,8 +6,8 @@ public class MainGameState : IGameState
     public void Enter()
     {
         UIManager.Instance.ShowMainGame();
-        ObjectManager.Instance.StartCoroutine(ObjectManager.Instance.SpawnKnives());
-        ObjectManager.Instance.SpawnTarget();
+        LevelManager.Instance.StartLevel(1);
+        InputManager.Instance.ListenToTouch();
         // Подготовить игру, включить HUD и т.д.
     }
 
@@ -18,8 +18,8 @@ public class MainGameState : IGameState
 
     public void Exit()
     {
-        ObjectManager.Instance.StopAllCoroutines();
-        ObjectManager.Instance.DestroyAll();
+        InputManager.Instance.StopListening();
+        LevelManager.Instance.ExitGame();
         Debug.Log("Exiting Main Game");
         // Очистка HUD и т.п.
     }

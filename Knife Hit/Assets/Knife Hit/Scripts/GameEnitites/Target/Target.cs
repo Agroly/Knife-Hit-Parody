@@ -6,34 +6,24 @@ using UnityEngine;
 public class Target : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
-    [SerializeField] private TargetData targetData; 
+    [SerializeField] private TargetData targetData;
 
     private int currentHits = 0;
-    private float destructionTime = 0.3f;
 
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    private void Start()
-    {
-        ApplyTargetData();
-    }
-
     private void Update()
     {
         RotateTarget();
     }
-
-    private void ApplyTargetData()
+    public void Initialize(TargetData data)
     {
-        if (targetData != null && spriteRenderer != null)
-        {
-            spriteRenderer.sprite = targetData.targetSprite;
-        }
+        targetData = data;
     }
-
+    public int GetRequiredKnives() => targetData.knifeHitsRequired;
     private void RotateTarget()
     {
         transform.Rotate(Vector3.forward * targetData.rotationSpeed * Time.deltaTime);
@@ -42,26 +32,23 @@ public class Target : MonoBehaviour
     // Метод для обработки попадания ножа
     public void Hit()
     {
-        Debug.Log("Hit");
         currentHits++;
         if (currentHits >= targetData.knifeHitsRequired)
         {
-            StartCoroutine(DestroyTarget());
+
+            DestroyTarget();
         }
     }
-
-    // Метод для уничтожения цели
-    IEnumerator DestroyTarget()
-    {      
+    private void DestroyTarget()
+    {
+        spriteRenderer.gameObject.SetActive(false);
         if (targetData.targetType == TargetType.Boss)
         {
             // Специальная логика для босса
             Debug.Log("Boss defeated!");
         }
-        spriteRenderer.sprite = null;
-        StartCoroutine(ObjectManager.Instance.knivesController.DestroyStuckKnives());
-        yield return new WaitForSeconds(destructionTime);
-        ObjectManager.Instance.SpawnTarget();
-        Destroy(gameObject);
+        LevelManager.Instance.CompleteLevel();
+        Destroy(gameObject, 0.5f);
+        return;
     }
 }

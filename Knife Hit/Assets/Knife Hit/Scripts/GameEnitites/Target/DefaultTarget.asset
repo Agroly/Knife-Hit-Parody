@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DefaultTarget
   m_EditorClassIdentifier: 
   targetSprite: {fileID: 21300000, guid: 86078fb66995340499c9916419f26f32, type: 3}
-  rotationSpeed: 50
-  knifeHitsRequired: 3
+  rotationSpeed: 100
+  knifeHitsRequired: 10
   targetName: Default
   targetType: 0

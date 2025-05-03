@@ -1,0 +1,12 @@
+# ninja log v5
+83	827	7678859202490622	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8a6ab41829993be1
+828	1295	7678859206615083	D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/4y411h6p/obj/arm64-v8a/libswappywrapper.so	76aac34a30ba19c6
+11	3138	7678859225614143	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4a297db404fd7056
+56	3148	7678859225689773	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	70c80502cdd8097e
+64	3170	7678859225806033	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a73dc9a6c3aca6f4
+27	3183	7678859226020578	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c627498fafcb87e
+1	3210	7678859226365545	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	275c39d73d0cfe2a
+73	3230	7678859226608078	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e92b34bd72e09421
+37	3511	7678859229214212	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cd067cbc5b326f48
+18	3524	7678859229347088	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ded09c1c22536e3a
+3525	3691	7678859231262087	D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/4y411h6p/obj/arm64-v8a/libgame.so	2bc532991283aee4

@@ -1,0 +1,8 @@
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/unity projects/Mobile/KnifeHit/Knife-Hit-Parody/Knife Hit/.utmp/Debug/4y411h6p/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
