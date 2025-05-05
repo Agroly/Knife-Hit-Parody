@@ -9,7 +9,8 @@ public class Knife : MonoBehaviour
     [SerializeField] private KnifeSkinDataSO skin;
     [SerializeField] private float shootForce = 10f;
     [SerializeField] private BoxCollider2D bladeCollider;
-    [SerializeField] private BoxCollider2D handleCollider;
+    [SerializeField] private PolygonCollider2D handleCollider;
+    [SerializeField] private ParticleSystem hitParticles;
 
     private SpriteRenderer spriteRenderer;
     private Rigidbody2D rb;
@@ -29,9 +30,17 @@ public class Knife : MonoBehaviour
             if (collision.gameObject.TryGetComponent<Target>(out var target))
             {
                 StickToTarget(target.transform);
+                var hp = Instantiate(hitParticles);
+                hp.transform.position = target.transform.position;
                 target.Hit();
             }
-            else StartCoroutine(BounceAndLose());
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (!IsStuck)
+        {
+            StartCoroutine(BounceAndLose());
         }
     }
 
@@ -41,7 +50,7 @@ public class Knife : MonoBehaviour
         handleCollider.enabled = true;
         rb.linearVelocity = Vector2.zero;
         rb.angularVelocity = 0f;
-        rb.bodyType = RigidbodyType2D.Kinematic;
+        rb.bodyType = RigidbodyType2D.Static;
         transform.SetParent(targetTransform);
         IsStuck = true;
     }
@@ -59,7 +68,6 @@ public class Knife : MonoBehaviour
     {
         bladeCollider.enabled = false;
         handleCollider.enabled = false;
-
         rb.linearVelocity = Vector3.zero;
         rb.gravityScale = 5f;
         rb.AddForce(Vector3.left * Random.Range(-5f, 5f) + Vector3.up * 3f, ForceMode2D.Impulse);

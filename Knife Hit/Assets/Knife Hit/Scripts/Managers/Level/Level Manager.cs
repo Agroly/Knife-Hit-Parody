@@ -23,7 +23,8 @@ public class LevelManager : MonoBehaviour
     private ObjectSpawner spawner;
     private KnivesController knivesController;
 
-    public static event System.Action<int> OnLevelStarted;
+    public static event System.Action<int, int> OnLevelStarted;
+    public static event System.Action OnShoot;
 
     private void Awake()
     {
@@ -44,7 +45,7 @@ public class LevelManager : MonoBehaviour
         currentKnife = spawner.SpawnKnife();
         knivesController.RegisterKnife(currentKnife);
 
-        OnLevelStarted?.Invoke(currentLevel);
+        OnLevelStarted?.Invoke(currentLevel, availableKnives);
     }
     public IEnumerator ShootAndSpawn()
     {
@@ -53,6 +54,7 @@ public class LevelManager : MonoBehaviour
             currentKnife.Shoot();
             currentKnife = null;
             availableKnives -= 1;
+            OnShoot.Invoke();
             yield return new WaitForSeconds(0.1f);
             if (availableKnives > 0)
             {

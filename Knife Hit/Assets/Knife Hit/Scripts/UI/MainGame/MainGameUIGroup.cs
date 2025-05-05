@@ -5,25 +5,29 @@ public class MainGameUIGroup : UIGroup
 {
 
     [SerializeField] private Text stageText;
+    [SerializeField] private KnifePanelUI knifePanel;
 
     private void OnEnable()
     {
         // Подписываемся на событие при активации UI
-        LevelManager.OnLevelStarted += UpdateStageText;
+        LevelManager.OnLevelStarted += UpdateUI;
+        LevelManager.OnShoot += knifePanel.UseKnife;
     }
 
     private void OnDisable()
     {
         // Отписываемся от события при деактивации UI
-        LevelManager.OnLevelStarted -= UpdateStageText;
+        LevelManager.OnLevelStarted -= UpdateUI;
+        LevelManager.OnShoot -= knifePanel.UseKnife;
     }
 
     // Метод для обновления текста
-    private void UpdateStageText(int level)
+    private void UpdateUI(int level, int knives)
     {
         if (stageText != null)
         {
-            stageText.text = "Stage " + level;
+            stageText.text = "STAGE " + level;
         }
+        knifePanel.Initialize(knives);
     }
 }

@@ -63,31 +63,17 @@ public class KnivesController : MonoBehaviour
                 // Вычисляем направление от центра взрыва до ножа
                 Vector2 direction = ((Vector2)knife.transform.position - targetPos).normalized;
 
-                // Добавим рандомную вертикальную составляющую — "псевдо-3D"
                 direction.y += Random.Range(-0.5f, +0.5f);
                 direction = direction.normalized;
 
                 float force = Random.Range(explosionForceMin, explosionForceMax);
                 rb.AddForce(direction * force, ForceMode2D.Impulse);
 
-                //// Опционально: добавим вращение
-                //float torque = 100f;
-                //rb.AddTorque(torque, ForceMode2D.Impulse);
+                // Опционально: добавим вращение
+                float torque = Random.Range(0, 5);
+                rb.AddTorque(torque, ForceMode2D.Impulse);
 
-                float rotX = Random.Range(-180f, 180f);
-                float rotZ = Random.Range(-180f, 180f);
-                knife.StartCoroutine(RotateIn3D(knife.transform, rotX, rotZ));
-            }
-        }
 
-        IEnumerator RotateIn3D(Transform target, float speedX, float speedZ)
-        {
-            float time = 0f;
-            while (time < destroyDelay)
-            {
-                target.Rotate(speedX * Time.deltaTime, 0f, speedZ * Time.deltaTime, Space.Self);
-                time += Time.deltaTime;
-                yield return null;
             }
         }
     }

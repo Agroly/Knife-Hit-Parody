@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2375184147086723999}
-  - component: {fileID: 4534392567398711508}
+  - component: {fileID: 7434975301780449192}
   m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
@@ -32,8 +32,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 7769409504950969070}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &4534392567398711508
-BoxCollider2D:
+--- !u!60 &7434975301780449192
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -62,11 +62,11 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.75}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -76,8 +76,15 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.46, y: 0.02}
-  m_EdgeRadius: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.09966516, y: -0.22617596}
+      - {x: 0.13069662, y: -0.08587185}
+      - {x: 0.030989893, y: -0.0816004}
+      - {x: -0.1442374, y: -0.08955898}
+      - {x: -0.14185476, y: -0.1651107}
+      - {x: -0.14190724, y: -0.23864657}
+  m_UseDelaunayMesh: 0
 --- !u!1 &2686797448547911871
 GameObject:
   m_ObjectHideFlags: 0
@@ -158,7 +165,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8985519540401189396, guid: 3afd2007a8f6d4c45a7bc05e6af82693, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0582f116f411692459fd6dc993570004, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -184,7 +191,8 @@ MonoBehaviour:
   skin: {fileID: 11400000, guid: f834c7d3b4b5036429e3f273273bc55a, type: 2}
   shootForce: 18
   bladeCollider: {fileID: 4668325769333133166}
-  handleCollider: {fileID: 4534392567398711508}
+  handleCollider: {fileID: 7434975301780449192}
+  hitParticles: {fileID: 8704841528117307151, guid: a2e005ded7ba87b4ab6f72a4e3057a1c, type: 3}
 --- !u!50 &2072148721237721608
 Rigidbody2D:
   serializedVersion: 5
@@ -274,7 +282,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0

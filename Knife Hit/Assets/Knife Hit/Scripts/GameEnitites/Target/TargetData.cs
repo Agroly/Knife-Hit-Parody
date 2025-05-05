@@ -10,8 +10,8 @@ public enum TargetType
 public class TargetData : ScriptableObject
 {
     public Sprite targetSprite;           
-    public float rotationSpeed = 50f;     
-    public int knifeHitsRequired = 3;      
+    public float rotationSpeed = 50f;
+    public int knifeHitsRequired;   
     public string targetName;            
-    public TargetType targetType;         
+    public TargetType targetType;
 }

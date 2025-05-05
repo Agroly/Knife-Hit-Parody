@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e3cd98521d596f40882e5c948a4087d, type: 3}
-  m_Name: DefaultTarget
+  m_Name: DefaultTarget 4
   m_EditorClassIdentifier: 
   targetSprite: {fileID: 21300000, guid: 86078fb66995340499c9916419f26f32, type: 3}
-  rotationSpeed: 100
-  knifeHitsRequired: 10
+  rotationSpeed: 360
+  knifeHitsRequired: 5
   targetName: Default
   targetType: 0

@@ -36,7 +36,7 @@ public class InputManager : MonoBehaviour
 
         if (IsPointerOverUI(screenPosition))
             return;
-
+        Debug.Log("Click");
         StartCoroutine(LevelManager.Instance.ShootAndSpawn());
     }
 
