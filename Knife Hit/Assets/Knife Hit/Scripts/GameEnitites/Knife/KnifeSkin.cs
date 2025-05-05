@@ -6,7 +6,7 @@ public enum KnifeSkinUnlockType
 }
 
 [CreateAssetMenu(fileName = "KnifeSkin", menuName = "GameData/Knife Skin")]
-public class KnifeSkin : ScriptableObject
+public class KnifeSkinDataSO : ScriptableObject
 {
     public Sprite knifeSprite;
     public string skinName;

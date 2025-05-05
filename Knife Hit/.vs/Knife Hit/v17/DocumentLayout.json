@@ -1,85 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\",
+  "WorkspaceRootPath": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\knifehit\\knife-hit-parody\\knife hit\\assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\downsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\downsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\knifehit\\knife-hit-parody\\knife hit\\assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\titlearcintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\titlearcintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\sworddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\sworddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\target\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gameenitites\\target\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\target\\targetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gameenitites\\target\\targetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\knife\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\knife\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gameenitites\\knife\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\ui\\buttongamestateswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\ui\\buttongamestateswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\MainGameUIGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\MainGameUIGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gamestate\\stateswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gamestate\\stateswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|d:\\unity projects\\mobile\\knifehit\\knife-hit-parody\\knife hit\\assets\\knife hit\\scripts\\ui\\maingame\\maingameuigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\ui\\maingame\\maingameuigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\ui\\uigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\ui\\uigroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\level\\level manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\level\\level manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\level\\knives controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\level\\knives controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\knife\\knifeskin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\knife\\knifeskin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gameenitites\\knife\\knifeskin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gamestate\\igamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gamestate\\igamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\level\\object spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\level\\object spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gamestate\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gamestate\\mainmenustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\target\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gameenitites\\target\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gamestate\\maingamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\bin\\fps controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\bin\\fps controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gamestate\\maingamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gamestate\\maingamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gamestate\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gamestate\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\bin\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\bin\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\assets\\knife hit\\scripts\\gameenitites\\target\\targetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F1ED45-8FF2-F413-AA5A-31440AB6F0E5}|Assembly-CSharp.csproj|solutionrelative:assets\\knife hit\\scripts\\gameenitites\\target\\targetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\UIGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\UIGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,256 +74,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DownSword.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\DownSword.cs",
-              "RelativeDocumentMoniker": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\DownSword.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\DownSword.cs",
-              "RelativeToolTip": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\DownSword.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA4wDUAAAABAAAA",
+              "DocumentIndex": 3,
+              "Title": "MainGameUIGroup.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\MainGame\\MainGameUIGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\UI\\MainGame\\MainGameUIGroup.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\MainGame\\MainGameUIGroup.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\UI\\MainGame\\MainGameUIGroup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:38:28.682Z",
+              "WhenOpened": "2025-05-03T16:00:42.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TitleArcIntro.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\TitleArcIntro.cs",
-              "RelativeDocumentMoniker": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\TitleArcIntro.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\TitleArcIntro.cs",
-              "RelativeToolTip": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\TitleArcIntro.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAmwDoAAAABAAAA",
+              "Title": "MainGameUIGroup.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\MainGameUIGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\MainGameUIGroup.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\MainGameUIGroup.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\MainGameUIGroup.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:13:52.086Z",
+              "WhenOpened": "2025-05-03T10:53:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FPS Controller.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Bin\\FPS Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Bin\\FPS Controller.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Bin\\FPS Controller.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Bin\\FPS Controller.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:03:59.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FPS.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Bin\\FPS.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Bin\\FPS.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Bin\\FPS.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Bin\\FPS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:51:28.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Object Spawner.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\Level\\Object Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\Level\\Object Spawner.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\Level\\Object Spawner.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\Level\\Object Spawner.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA+wEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:33:09.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level Manager.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\Level\\Level Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\Level\\Level Manager.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\Level\\Level Manager.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\Level\\Level Manager.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:28:37.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StartButton.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\StartButton.cs",
-              "RelativeDocumentMoniker": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\StartButton.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\StartButton.cs",
-              "RelativeToolTip": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\StartButton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wCYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:52:30.038Z",
+              "WhenOpened": "2025-05-02T09:23:31.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SwordDrop.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\SwordDrop.cs",
-              "RelativeDocumentMoniker": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\SwordDrop.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\SwordDrop.cs",
-              "RelativeToolTip": "Assets\\\u0441\u043A\u0440\u0438\u043F\u0442\u044B\\SwordDrop.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:44:22.868Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Input\\InputManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "KnifeSkin.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T16:27:03.594Z"
+              "WhenOpened": "2025-05-01T13:34:50.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TargetData.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:54:35.806Z"
+              "WhenOpened": "2025-05-01T08:58:57.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Target.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Knives Controller.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\Level\\Knives Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\Level\\Knives Controller.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\Level\\Knives Controller.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\Level\\Knives Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:51:33.597Z"
+              "WhenOpened": "2025-05-02T13:08:42.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameStateManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:49:29.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Knife.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\Knife.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:07:04.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "KnifeSkin.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Knife\\KnifeSkin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:06:27.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ObjectManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\ObjectManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\ObjectManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\ObjectManager.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\ObjectManager.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T12:41:43.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GameOverState.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\GameOverState.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameState\\GameOverState.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\GameOverState.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameState\\GameOverState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:47:19.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainGameState.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:47:22.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainMenuState.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\MainMenuState.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameState\\MainMenuState.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\MainMenuState.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameState\\MainMenuState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:47:23.712Z"
+              "WhenOpened": "2025-05-03T10:54:27.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IGameState.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\IGameState.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameState\\IGameState.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\IGameState.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameState\\IGameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:47:21.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\UIManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:22:54.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "UIGroup.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UIGroup.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\UI\\UIGroup.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UIGroup.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\UI\\UIGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\UIGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\UIGroup.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\UIGroup.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\UI\\UiGroups\\UIGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:25:17.641Z"
+              "WhenOpened": "2025-05-03T10:53:32.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameManager.cs",
-              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCwAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\Target.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:22:53.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StateSwitcher.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\StateSwitcher.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameState\\StateSwitcher.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\StateSwitcher.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameState\\StateSwitcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T12:04:36.282Z"
+              "WhenOpened": "2025-05-01T08:45:35.069Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ButtonGameStateSwitch.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\ButtonGameStateSwitch.cs",
-              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\UI\\ButtonGameStateSwitch.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\UI\\ButtonGameStateSwitch.cs",
-              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\UI\\ButtonGameStateSwitch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\Managers\\GameStateManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:54:53.666Z"
+              "WhenOpened": "2025-05-02T18:13:56.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TargetData.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameEnitites\\Target\\TargetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:01:30.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainGameState.cs",
+              "DocumentMoniker": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
+              "ToolTip": "D:\\unity projects\\Mobile\\KnifeHit\\Knife-Hit-Parody\\Knife Hit\\Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
+              "RelativeToolTip": "Assets\\Knife Hit\\Scripts\\GameState\\MainGameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:35:52.517Z"
             }
           ]
         }
