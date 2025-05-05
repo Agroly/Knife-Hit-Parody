@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -39,9 +39,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1097
+    x: 1130
     y: 0
-    width: 505
+    width: 494
     height: 600
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -218,10 +218,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 550
     y: 0
-    width: 547
+    width: 580
     height: 600
-  m_MinSize: {x: 202, y: 226}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -243,12 +243,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1602
+    x: 1624
     y: 0
-    width: 318
+    width: 296
     height: 600
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -304,7 +304,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 79
     width: 549
     height: 574
   m_SerializedDataModeController:
@@ -320,10 +320,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 7}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0cfbffff
+      m_ExpandedIDs: b07bffffbc8affff9c8fffff2ca1ffff98baffffdae0ffff22f8ffff0cfbffffa6930000cc9300000c9400003e94000070940000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -441,9 +441,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 551
-    y: 24
-    width: 545
+    x: 550
+    y: 79
+    width: 578
     height: 574
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1072,7 +1072,7 @@ MonoBehaviour:
       sizeOverridden: 0
     m_ContainerData:
     - containerId: overlay-toolbar__top
-      scrollOffset: 54
+      scrollOffset: 0
     - containerId: overlay-toolbar__left
       scrollOffset: 0
     - containerId: overlay-container--left
@@ -1097,9 +1097,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 2.0939026, y: 3.7313874, z: 9908.877}
+    m_Target: {x: 1.7560465, y: 0.6547799, z: 732.511}
     speed: 2
-    m_Value: {x: 2.0939026, y: 3.7313874, z: 9908.877}
+    m_Value: {x: 1.8483016, y: 0.673969, z: 697.0478}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1149,9 +1149,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.4954536
+    m_Target: 4.696072
     speed: 2
-    m_Value: 3.4954536
+    m_Value: 4.493849
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1206,9 +1206,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1603
-    y: 24
-    width: 317
+    x: 1624
+    y: 79
+    width: 295
     height: 574
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1256,7 +1256,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 624
+    y: 679
     width: 1920
     height: 315
   m_SerializedDataModeController:
@@ -1281,7 +1281,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Knife Hit/Scenes
+    - Assets/Buttons
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1291,16 +1291,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Knife Hit/Scenes
+  - Assets/Buttons
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\USER\Desktop\KnifeHit\Knife-Hit-Parody\Knife Hit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4e930000
-    m_LastClickedID: 37710
-    m_ExpandedIDs: 00000000dc920000de920000e0920000e2920000
+    m_SelectedIDs: 3e930000
+    m_LastClickedID: 37694
+    m_ExpandedIDs: 00000000dc920000de920000e0920000e292000044930000d09d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1409,9 +1409,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 536
-    width: 1536
-    height: 234
+    y: 679
+    width: 1920
+    height: 315
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1481,9 +1481,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1098
-    y: 24
-    width: 503
+    x: 1130
+    y: 79
+    width: 492
     height: 574
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1499,7 +1499,7 @@ MonoBehaviour:
   m_SerializedViewNames:
   - UnityEditor.DeviceSimulation.SimulatorWindow
   m_SerializedViewValues:
-  - C:\Users\USER\Desktop\KnifeHit\Knife-Hit-Parody\Knife Hit\Library\PlayModeViewStates\c3aa7ed1e254fa645af481777b20d0b1
+  - C:\Users\USER\Desktop\KnifeHit\Knife-Hit-Parody\Knife Hit\Library\PlayModeViewStates\773f050e45c3550409316af4760fcb29
   m_PlayModeViewName: GameView
   m_ShowGizmos: 0
   m_TargetDisplay: 0
@@ -1540,23 +1540,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 503
+      width: 492
       height: 553
     m_Scale: {x: 0.23041667, y: 0.23041667}
-    m_Translation: {x: 251.5, y: 276.5}
+    m_Translation: {x: 246, y: 276.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1091.5009
+      x: -1067.6311
       y: -1200
-      width: 2183.0017
+      width: 2135.2622
       height: 2400
     m_MinimalGUI: 1
   m_defaultScale: 0.23041667
-  m_LastWindowPixelSize: {x: 503, y: 574}
+  m_LastWindowPixelSize: {x: 492, y: 574}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
