@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class UIGroup : MonoBehaviour
 {
-    public void Show()
+    public virtual void Show()
     {
         foreach (Transform child in transform)
         {
@@ -10,7 +10,7 @@ public class UIGroup : MonoBehaviour
         }
     }
 
-    public void Hide()
+    public virtual void Hide()
     {
         foreach (Transform child in transform)
         {

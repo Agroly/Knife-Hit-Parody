@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 197761b14facff145af309c4035441c9, type: 3}
   m_Name: KnifeSkin
   m_EditorClassIdentifier: 
-  knifeSprite: {fileID: -8985519540401189396, guid: 3afd2007a8f6d4c45a7bc05e6af82693, type: 3}
+  knifeSprite: {fileID: 6194231076266839136, guid: 3a6a78cebf519584983153ff388afbbf, type: 3}
   skinName: Default
   unlockType: 0
   appleCost: 0
