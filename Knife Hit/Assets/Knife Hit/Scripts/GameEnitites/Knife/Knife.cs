@@ -66,8 +66,7 @@ public class Knife : MonoBehaviour
     }
     private IEnumerator BounceAndLose()
     {
-        bladeCollider.enabled = false;
-        handleCollider.enabled = false;
+        DisableColliders();
         rb.linearVelocity = Vector3.zero;
         rb.gravityScale = 5f;
         rb.AddForce(Vector3.left * Random.Range(-5f, 5f) + Vector3.up * 3f, ForceMode2D.Impulse);
