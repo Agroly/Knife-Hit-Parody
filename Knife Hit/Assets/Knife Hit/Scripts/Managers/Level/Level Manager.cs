@@ -15,6 +15,9 @@ public class LevelManager : MonoBehaviour
     [SerializeField] private List<TargetData> bossTargets;
 
 
+    [SerializeField] private AudioClip SpawnSound;
+
+
     private int currentLevel = 1;
     private int availableKnives;
     private Knife currentKnife;
@@ -38,6 +41,7 @@ public class LevelManager : MonoBehaviour
 
     public void StartLevel(int levelIndex)
     {
+        AudioManager.Instance.PlaySFX(SpawnSound);
         currentLevel = levelIndex;
         TargetData selectedData = ChooseTargetData(levelIndex);
         currentTarget = spawner.SpawnTarget(selectedData);

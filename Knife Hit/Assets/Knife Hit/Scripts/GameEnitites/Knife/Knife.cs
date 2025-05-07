@@ -11,6 +11,8 @@ public class Knife : MonoBehaviour
     [SerializeField] private BoxCollider2D bladeCollider;
     [SerializeField] private PolygonCollider2D handleCollider;
     [SerializeField] private ParticleSystem hitParticles;
+    [SerializeField] private HitEffect hitEffect;
+    [SerializeField] private AudioClip knifeHitSound;
 
     private SpriteRenderer spriteRenderer;
     private Rigidbody2D rb;
@@ -40,6 +42,10 @@ public class Knife : MonoBehaviour
     {
         if (!IsStuck)
         {
+            Vector3 pos = collision.GetContact(0).point;
+            pos.z = 0f;
+            Instantiate(hitEffect, pos, Quaternion.identity);
+            AudioManager.Instance.PlaySFX(knifeHitSound);
             StartCoroutine(BounceAndLose());
         }
     }

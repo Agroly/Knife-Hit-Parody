@@ -193,6 +193,8 @@ MonoBehaviour:
   bladeCollider: {fileID: 4668325769333133166}
   handleCollider: {fileID: 7434975301780449192}
   hitParticles: {fileID: 8704841528117307151, guid: a2e005ded7ba87b4ab6f72a4e3057a1c, type: 3}
+  hitEffect: {fileID: 2164208085410463274, guid: 198500adc87cf9a4d9b82f3c877f04a0, type: 3}
+  knifeHitSound: {fileID: 8300000, guid: 14b7cbd3631f78442beba3250ea6b062, type: 3}
 --- !u!50 &2072148721237721608
 Rigidbody2D:
   serializedVersion: 5

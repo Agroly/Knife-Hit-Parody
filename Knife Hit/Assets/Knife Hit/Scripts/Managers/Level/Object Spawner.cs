@@ -1,3 +1,4 @@
+using DG.Tweening;
 using NUnit.Framework;
 using System.Collections;
 using System.Collections.Generic;
@@ -23,7 +24,7 @@ public class ObjectSpawner : MonoBehaviour
     public Knife SpawnKnife()
     {
         Knife knife = Instantiate(knifePrefab, knifeSpawnPoint.position, Quaternion.identity);
-        StartCoroutine(AnimateSpawn(knife.gameObject));
+        AnimateSpawn(knife.gameObject);
         return knife;
     }
 
@@ -31,48 +32,39 @@ public class ObjectSpawner : MonoBehaviour
     {
         Target target = Instantiate(targetPrefab, targetSpawnPoint.position, Quaternion.identity);
         target.Initialize(data);
-        StartCoroutine(AnimateSpawn(target.gameObject));
+        AnimateSpawnTarget(target.gameObject);
         return target;
     }
 
-    private IEnumerator AnimateSpawn(GameObject obj)
+    private void AnimateSpawn(GameObject obj)
     {
-        float elapsed = 0f;
-
-        if (obj == null) yield break;
-
-        Vector3 startPos = obj.transform.position + new Vector3(0, -2f, 0);
-        Vector3 endPos = obj.transform.position;
+        if (obj == null) return;
 
         SpriteRenderer sr = obj.GetComponent<SpriteRenderer>();
-        if (sr == null) yield break;
+        if (sr == null) return;
 
-        Color color = sr.color;
-        color.a = 0f;
-        sr.color = color;
+        Vector3 startPos = obj.transform.position + new Vector3(0, -2f, 0);
+        obj.transform.position = startPos;
 
-        while (elapsed < spawnDuration)
-        {
-            if (obj == null || sr == null) yield break;
+        Color startColor = sr.color;
+        startColor.a = 0f;
+        sr.color = startColor;
 
-            elapsed += Time.deltaTime;
-            float t = elapsed / spawnDuration;
+        // ѕлавное подн€тие
+        obj.transform.DOMoveY(obj.transform.position.y + 2f, spawnDuration)
+            .SetEase(Ease.OutCubic);
 
-            float smoothT = 1f - Mathf.Pow(1f - t, 3);
-            obj.transform.position = Vector3.Lerp(startPos, endPos, smoothT);
+        // ѕлавное по€вление
+        sr.DOFade(1f, spawnDuration);
+    }
+    private void AnimateSpawnTarget(GameObject obj)
+    {
+        if (obj == null) return;
 
-            color.a = Mathf.Lerp(0f, 1f, t);
-            sr.color = color;
+        obj.transform.localScale = Vector3.zero;
 
-            yield return null;
-        }
-
-        if (obj != null && sr != null)
-        {
-            obj.transform.position = endPos;
-            color.a = 1f;
-            sr.color = color;
-        }
+        obj.transform.DOScale(Vector3.one, spawnDuration)
+            .SetEase(Ease.OutBack); // Ёффект Ђлопающегос€ пузыр€ї
     }
 
 }

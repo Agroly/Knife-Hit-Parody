@@ -14,4 +14,6 @@ public class TargetData : ScriptableObject
     public int knifeHitsRequired;   
     public string targetName;            
     public TargetType targetType;
+    public AudioClip hitClip;
+    public AudioClip destroyClip;
 }

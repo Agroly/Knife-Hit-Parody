@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
 
+    [SerializeField] GameStateType _startState;
+
     private IGameState currentState;
 
     private void Awake()
@@ -26,7 +28,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        ChangeState(new MainMenuState());
+        ChangeState(_startState);
     }
 
     private void Update()
