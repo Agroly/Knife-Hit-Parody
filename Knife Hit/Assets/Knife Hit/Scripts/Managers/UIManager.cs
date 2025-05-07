@@ -8,6 +8,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private UIGroup mainMenu;
     [SerializeField] private UIGroup mainGame;
     [SerializeField] private UIGroup gameOver;
+    [SerializeField] private UIGroup KnifePanel;
 
     private UIGroup current;
 
@@ -37,4 +38,6 @@ public class UIManager : MonoBehaviour
     public void ShowMainMenu() => SwitchTo(mainMenu);
     public void ShowMainGame() => SwitchTo(mainGame);
     public void ShowGameOver() => SwitchTo(gameOver);
+
+    public void ShowKnifePanel() => SwitchTo(KnifePanel);
 }

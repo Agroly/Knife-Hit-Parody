@@ -4,7 +4,8 @@ public enum GameStateType
 {
     MainMenu,
     MainGame,
-    GameOver
+    GameOver,
+    KnifePanel
 }
 public class GameManager : MonoBehaviour
 {
@@ -54,6 +55,8 @@ public class GameManager : MonoBehaviour
                 return new MainGameState();
             case GameStateType.GameOver:
                 return new GameOverState();
+            case GameStateType.KnifePanel:
+                return new KnifePanelState();
             default:
                 Debug.LogError("State type not found: " + stateType);
                 return null;
