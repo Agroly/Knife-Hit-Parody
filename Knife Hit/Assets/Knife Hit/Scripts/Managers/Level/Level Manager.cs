@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 
 
@@ -10,15 +11,8 @@ using UnityEngine;
 public class LevelManager : MonoBehaviour
 {
     public static LevelManager Instance { get; private set; }
-    [Header("Data variations")]
-    [SerializeField] private List<TargetData> regularTargets;
-    [SerializeField] private List<TargetData> bossTargets;
-
-
-    [SerializeField] private AudioClip SpawnSound;
-
-
     private int currentLevel = 1;
+    private int currentScore = 0;
     private int availableKnives;
     private Knife currentKnife;
     private Target currentTarget;
@@ -28,6 +22,7 @@ public class LevelManager : MonoBehaviour
 
     public static event System.Action<int, int> OnLevelStarted;
     public static event System.Action OnShoot;
+    public static event System.Action OnScoreUpdate;
 
     private void Awake()
     {
@@ -41,11 +36,11 @@ public class LevelManager : MonoBehaviour
 
     public void StartLevel(int levelIndex)
     {
-        AudioManager.Instance.PlaySFX(SpawnSound);
         currentLevel = levelIndex;
-        TargetData selectedData = ChooseTargetData(levelIndex);
-        currentTarget = spawner.SpawnTarget(selectedData);
-        availableKnives = selectedData.knifeHitsRequired;
+        currentTarget = spawner.SpawnTarget(levelIndex);
+        currentTarget.Init();
+        availableKnives = currentTarget.knifeHitsRequired;
+
         currentKnife = spawner.SpawnKnife();
         knivesController.RegisterKnife(currentKnife);
 
@@ -71,6 +66,7 @@ public class LevelManager : MonoBehaviour
     public void CompleteLevel()
     {
         knivesController.DestroyStuckKnives(new Vector2 (0,0));
+        spawner.DestroyApples();
         StartCoroutine(NextLevel());
     }
     public void ExitGame()
@@ -84,11 +80,17 @@ public class LevelManager : MonoBehaviour
         StartLevel(currentLevel+1);
     }
 
-    private TargetData ChooseTargetData(int level)
+    public void AddScore()
     {
-        if (level % 5 == 0)
-            return bossTargets[Random.Range(0, bossTargets.Count)];
-        else
-            return regularTargets[Random.Range(0, regularTargets.Count)];
+        currentScore++;
+        OnScoreUpdate.Invoke();
     }
+    public void StartScore()
+    {
+        currentScore = 0;
+        OnScoreUpdate.Invoke();
+    }
+
+    public int GetScore() => currentScore;
+    public int GetStage() => currentLevel;
 }

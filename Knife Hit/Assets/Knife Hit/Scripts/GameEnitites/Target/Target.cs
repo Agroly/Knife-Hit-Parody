@@ -1,61 +1,44 @@
 using DG.Tweening;
-using System.Collections;
 using UnityEngine;
 
-[RequireComponent(typeof(SpriteRenderer))]
-[RequireComponent(typeof(Collider2D))]
-public class Target : MonoBehaviour
+[RequireComponent(typeof(TargetRotationController))]
+public abstract class Target : MonoBehaviour
 {
+    public TargetRotationController rotationController;
 
-    [SerializeField] private TargetData targetData;
+    public int knifeHitsRequired { get; protected set; }
+    [SerializeField] private AudioClip hitClip;
+    [SerializeField] private AudioClip destroyClip;
 
     private int currentHits = 0;
-
-    private Color originalColor;
     private SpriteRenderer spriteRenderer;
 
-    private void Awake()
+
+    public virtual void Init()
     {
+        rotationController.Rotate(transform);
         spriteRenderer = GetComponent<SpriteRenderer>();
-        originalColor = spriteRenderer.color;
     }
 
-    private void Update()
-    {
-        RotateTarget();
-    }
-    public void Initialize(TargetData data)
-    {
-        targetData = data;
-    }
-    public int GetRequiredKnives() => targetData.knifeHitsRequired;
-    private void RotateTarget()
-    {
-        transform.Rotate(Vector3.forward * targetData.rotationSpeed * Time.deltaTime);
-    }
 
     // Метод для обработки попадания ножа
     public void Hit()
     {
         HitAnimation();
         currentHits++;
-        if (currentHits >= targetData.knifeHitsRequired)
+        LevelManager.Instance.AddScore();
+        if (currentHits >= knifeHitsRequired)
         {
-
             DestroyTarget();
-            AudioManager.Instance.PlaySFX(targetData.destroyClip);
+            AudioManager.Instance.PlaySFX(destroyClip);
             return;
         }
-        AudioManager.Instance.PlaySFX(targetData.hitClip);
+        AudioManager.Instance.PlaySFX(hitClip);
     }
     private void DestroyTarget()
     {
         spriteRenderer.gameObject.SetActive(false);
-        if (targetData.targetType == TargetType.Boss)
-        {
-            // Специальная логика для босса
-            Debug.Log("Boss defeated!");
-        }
+
         LevelManager.Instance.CompleteLevel();
         Destroy(gameObject, 0.5f);
         return;
@@ -64,9 +47,10 @@ public class Target : MonoBehaviour
     {
         transform.DOPunchPosition(Vector3.up * 0.1f, 0.1f);
         spriteRenderer.DOColor(new Color(0.9f, 0.9f, 0.9f), 0.08f)
+           .SetLink(gameObject)
            .OnComplete(() => {
-               // Затем возвращаемся к исходному цвету
-               spriteRenderer.DOColor(originalColor, 0.02f);
+               spriteRenderer.DOColor(Color.white, 0.02f).SetLink(gameObject);
            });
     }
 }
+

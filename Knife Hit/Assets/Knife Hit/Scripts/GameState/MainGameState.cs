@@ -7,6 +7,7 @@ public class MainGameState : IGameState
     {
         UIManager.Instance.ShowMainGame();
         LevelManager.Instance.StartLevel(1);
+        LevelManager.Instance.StartScore();
         InputManager.Instance.ListenToTouch();
         // Подготовить игру, включить HUD и т.д.
     }
