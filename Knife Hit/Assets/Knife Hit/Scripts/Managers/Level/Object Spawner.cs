@@ -36,6 +36,7 @@ public class ObjectSpawner : MonoBehaviour
     public Knife SpawnKnife()
     {
         Knife knife = Instantiate(knifePrefab, knifeSpawnPoint.position, Quaternion.identity);
+        knife.SetSelectedSprite();
         AnimateSpawn(knife.gameObject);
         return knife;
     }

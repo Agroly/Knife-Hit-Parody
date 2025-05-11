@@ -1,0 +1,4906 @@
+fileFormatVersion: 2
+guid: 55f72ad5bafe62441a2d7dfcd77e608b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5808939233876760058
+    second: Mobile - Knife Hit - Knives_0
+  - first:
+      213: 8180637461099905637
+    second: Mobile - Knife Hit - Knives_1
+  - first:
+      213: 8779957036718445468
+    second: Mobile - Knife Hit - Knives_2
+  - first:
+      213: -3922743418193773153
+    second: Mobile - Knife Hit - Knives_3
+  - first:
+      213: 7883348478069687752
+    second: Mobile - Knife Hit - Knives_4
+  - first:
+      213: 5423278213337200214
+    second: Mobile - Knife Hit - Knives_5
+  - first:
+      213: 6467755608698517568
+    second: Mobile - Knife Hit - Knives_6
+  - first:
+      213: 7387971934588249967
+    second: Mobile - Knife Hit - Knives_7
+  - first:
+      213: -647194944886815263
+    second: Mobile - Knife Hit - Knives_8
+  - first:
+      213: 709262856758383947
+    second: Mobile - Knife Hit - Knives_9
+  - first:
+      213: -3717802655319533010
+    second: Mobile - Knife Hit - Knives_10
+  - first:
+      213: -607963594041068294
+    second: Mobile - Knife Hit - Knives_11
+  - first:
+      213: 5968493893673498179
+    second: Mobile - Knife Hit - Knives_12
+  - first:
+      213: -7035827194025251999
+    second: Mobile - Knife Hit - Knives_13
+  - first:
+      213: 2363793171091255725
+    second: Mobile - Knife Hit - Knives_14
+  - first:
+      213: 3835845312365393658
+    second: Mobile - Knife Hit - Knives_15
+  - first:
+      213: -575727086334474700
+    second: Mobile - Knife Hit - Knives_16
+  - first:
+      213: -677023864009001490
+    second: Mobile - Knife Hit - Knives_17
+  - first:
+      213: -2960673118966827591
+    second: Mobile - Knife Hit - Knives_18
+  - first:
+      213: 6510859031365074004
+    second: Mobile - Knife Hit - Knives_19
+  - first:
+      213: -823626052033961954
+    second: Mobile - Knife Hit - Knives_20
+  - first:
+      213: 8486015372720687477
+    second: Mobile - Knife Hit - Knives_21
+  - first:
+      213: 7002996542620090224
+    second: Mobile - Knife Hit - Knives_22
+  - first:
+      213: -6668613265258830710
+    second: Mobile - Knife Hit - Knives_23
+  - first:
+      213: -4721686717832005104
+    second: Mobile - Knife Hit - Knives_24
+  - first:
+      213: -527165980747040498
+    second: Mobile - Knife Hit - Knives_25
+  - first:
+      213: -7373072825107494636
+    second: Mobile - Knife Hit - Knives_26
+  - first:
+      213: 266864656357695871
+    second: Mobile - Knife Hit - Knives_27
+  - first:
+      213: 13255756619944807
+    second: Mobile - Knife Hit - Knives_28
+  - first:
+      213: -3407051313693154270
+    second: Mobile - Knife Hit - Knives_29
+  - first:
+      213: 9086495849680311714
+    second: Mobile - Knife Hit - Knives_30
+  - first:
+      213: -5831592421353361227
+    second: Mobile - Knife Hit - Knives_31
+  - first:
+      213: 1840062333409114945
+    second: Mobile - Knife Hit - Knives_32
+  - first:
+      213: 8911966981648496939
+    second: Mobile - Knife Hit - Knives_33
+  - first:
+      213: 6652790326152079394
+    second: Mobile - Knife Hit - Knives_34
+  - first:
+      213: 7897443514213834805
+    second: Mobile - Knife Hit - Knives_35
+  - first:
+      213: -8392536034011131814
+    second: Mobile - Knife Hit - Knives_36
+  - first:
+      213: 520736747658471135
+    second: Mobile - Knife Hit - Knives_37
+  - first:
+      213: -8670395057347341462
+    second: Mobile - Knife Hit - Knives_38
+  - first:
+      213: 3483461702329047652
+    second: Mobile - Knife Hit - Knives_39
+  - first:
+      213: 843835696397888442
+    second: Mobile - Knife Hit - Knives_40
+  - first:
+      213: -3451034263617117343
+    second: Mobile - Knife Hit - Knives_41
+  - first:
+      213: 3116955719312712699
+    second: Mobile - Knife Hit - Knives_42
+  - first:
+      213: -8125724866902739738
+    second: Mobile - Knife Hit - Knives_43
+  - first:
+      213: -7992626901873947988
+    second: Mobile - Knife Hit - Knives_44
+  - first:
+      213: 2759924157021487675
+    second: Mobile - Knife Hit - Knives_45
+  - first:
+      213: 143242857348085371
+    second: Mobile - Knife Hit - Knives_46
+  - first:
+      213: 4222934933208507889
+    second: Mobile - Knife Hit - Knives_47
+  - first:
+      213: 908919395383378579
+    second: Mobile - Knife Hit - Knives_48
+  - first:
+      213: 1759210004675659641
+    second: Mobile - Knife Hit - Knives_49
+  - first:
+      213: 5458228132871486283
+    second: Mobile - Knife Hit - Knives_50
+  - first:
+      213: -6366710514108867825
+    second: Mobile - Knife Hit - Knives_51
+  - first:
+      213: -7207107087152316612
+    second: Mobile - Knife Hit - Knives_52
+  - first:
+      213: 4736371358535316915
+    second: Mobile - Knife Hit - Knives_53
+  - first:
+      213: -2129060557831235110
+    second: Mobile - Knife Hit - Knives_54
+  - first:
+      213: 4043931886328218436
+    second: Mobile - Knife Hit - Knives_55
+  - first:
+      213: -5189474595133030053
+    second: Mobile - Knife Hit - Knives_56
+  - first:
+      213: -1199789707969498171
+    second: Mobile - Knife Hit - Knives_57
+  - first:
+      213: -1252886204244013331
+    second: Mobile - Knife Hit - Knives_58
+  - first:
+      213: 4077821851355899369
+    second: Mobile - Knife Hit - Knives_59
+  - first:
+      213: 9042729694995662496
+    second: Mobile - Knife Hit - Knives_60
+  - first:
+      213: -8054177468437760215
+    second: Mobile - Knife Hit - Knives_61
+  - first:
+      213: 7797932603885465114
+    second: Mobile - Knife Hit - Knives_62
+  - first:
+      213: -5233077860894679627
+    second: Mobile - Knife Hit - Knives_63
+  - first:
+      213: 5668189873165379483
+    second: Mobile - Knife Hit - Knives_64
+  - first:
+      213: -6764655020621983782
+    second: Mobile - Knife Hit - Knives_65
+  - first:
+      213: -5362678427806384665
+    second: Mobile - Knife Hit - Knives_66
+  - first:
+      213: -3276327139660930995
+    second: Mobile - Knife Hit - Knives_67
+  - first:
+      213: -1068312032936194969
+    second: Mobile - Knife Hit - Knives_68
+  - first:
+      213: -912557869311298432
+    second: Mobile - Knife Hit - Knives_69
+  - first:
+      213: 3661351702116082808
+    second: Mobile - Knife Hit - Knives_70
+  - first:
+      213: -4356725051417857495
+    second: Mobile - Knife Hit - Knives_71
+  - first:
+      213: 4746081282648980535
+    second: Mobile - Knife Hit - Knives_72
+  - first:
+      213: -172890889378037412
+    second: Mobile - Knife Hit - Knives_73
+  - first:
+      213: -8618685027565887335
+    second: Mobile - Knife Hit - Knives_74
+  - first:
+      213: 2191624244538100480
+    second: Mobile - Knife Hit - Knives_75
+  - first:
+      213: 8627120092023179888
+    second: Mobile - Knife Hit - Knives_76
+  - first:
+      213: 8425517516431179786
+    second: Mobile - Knife Hit - Knives_77
+  - first:
+      213: -1812150161976993788
+    second: Mobile - Knife Hit - Knives_78
+  - first:
+      213: -1008724497411177258
+    second: Mobile - Knife Hit - Knives_79
+  - first:
+      213: -4687022036555654133
+    second: Mobile - Knife Hit - Knives_80
+  - first:
+      213: 1321935083157122848
+    second: Mobile - Knife Hit - Knives_81
+  - first:
+      213: -641879062979655180
+    second: Mobile - Knife Hit - Knives_82
+  - first:
+      213: -2484977141624112929
+    second: Mobile - Knife Hit - Knives_83
+  - first:
+      213: 7454207866576007267
+    second: Mobile - Knife Hit - Knives_84
+  - first:
+      213: 4902150145059761076
+    second: Mobile - Knife Hit - Knives_85
+  - first:
+      213: -6478869260381456897
+    second: Mobile - Knife Hit - Knives_86
+  - first:
+      213: 4694561653608736029
+    second: Mobile - Knife Hit - Knives_87
+  - first:
+      213: 7388538941001039038
+    second: Mobile - Knife Hit - Knives_88
+  - first:
+      213: 119915495413318396
+    second: Mobile - Knife Hit - Knives_89
+  - first:
+      213: 2587468456300066233
+    second: Mobile - Knife Hit - Knives_90
+  - first:
+      213: 4524723435227303974
+    second: Mobile - Knife Hit - Knives_91
+  - first:
+      213: -5442321862764496036
+    second: Mobile - Knife Hit - Knives_92
+  - first:
+      213: 9111726367970760430
+    second: Mobile - Knife Hit - Knives_93
+  - first:
+      213: 5882910112129620831
+    second: Mobile - Knife Hit - Knives_94
+  - first:
+      213: -7233900412578563517
+    second: Mobile - Knife Hit - Knives_95
+  - first:
+      213: 2765801167966719852
+    second: Mobile - Knife Hit - Knives_96
+  - first:
+      213: 4253614690327337985
+    second: Mobile - Knife Hit - Knives_97
+  - first:
+      213: -7826317367718973032
+    second: Mobile - Knife Hit - Knives_98
+  - first:
+      213: -6807634652713925010
+    second: Mobile - Knife Hit - Knives_99
+  - first:
+      213: 6740704385790152204
+    second: Mobile - Knife Hit - Knives_100
+  - first:
+      213: 1161334159829082278
+    second: Mobile - Knife Hit - Knives_101
+  - first:
+      213: -119246994440111008
+    second: Mobile - Knife Hit - Knives_102
+  - first:
+      213: 1093045253976173250
+    second: Mobile - Knife Hit - Knives_103
+  - first:
+      213: 4653516837374783464
+    second: Mobile - Knife Hit - Knives_104
+  - first:
+      213: -6856826562860598777
+    second: Mobile - Knife Hit - Knives_105
+  - first:
+      213: -1460336899113877993
+    second: Mobile - Knife Hit - Knives_106
+  - first:
+      213: 7496230469958106234
+    second: Mobile - Knife Hit - Knives_107
+  - first:
+      213: -4138213123777371642
+    second: Mobile - Knife Hit - Knives_108
+  - first:
+      213: -6351601864724847002
+    second: Mobile - Knife Hit - Knives_109
+  - first:
+      213: 8071348585240863105
+    second: Mobile - Knife Hit - Knives_110
+  - first:
+      213: -3031146517432812510
+    second: Mobile - Knife Hit - Knives_111
+  - first:
+      213: -6192693803014572155
+    second: Mobile - Knife Hit - Knives_112
+  - first:
+      213: -8294194878453279027
+    second: Mobile - Knife Hit - Knives_113
+  - first:
+      213: 41278253879326860
+    second: Mobile - Knife Hit - Knives_114
+  - first:
+      213: 6212043133294508736
+    second: Mobile - Knife Hit - Knives_115
+  - first:
+      213: -2070236442464549560
+    second: Mobile - Knife Hit - Knives_116
+  - first:
+      213: -6549238491160252149
+    second: Mobile - Knife Hit - Knives_117
+  - first:
+      213: -7912602915328550348
+    second: Mobile - Knife Hit - Knives_118
+  - first:
+      213: 6358047625170792914
+    second: Mobile - Knife Hit - Knives_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6591e30e177094caa9b89fe6b958a1
+      internalID: 1182113345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9446cd6851c4d4da632c5dccd17698
+      internalID: 215536478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c7befd7a08df4fa0e7281a7fd5963
+      internalID: 1487021259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bb982e85e2294448ef03d87190d72f
+      internalID: -15740769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131870c55c3f5841b9f8fa2c84a17bc
+      internalID: 437708616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcdf85d87d2a0b4c81cf5f3cbc3646b
+      internalID: 1894108980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4adb65216de8d8478e3dfb4a3993839
+      internalID: -928292455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0ee668480b564386abeaf2f3e9f46
+      internalID: -148557259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760e8da5ec5f9f144a5786a62011a0e8
+      internalID: 678671699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0086b3f2005e0e438b2a499b0a950d7
+      internalID: 873506557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414039e2046e4e40bfcec0fe440cf5d
+      internalID: 2004684716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3841
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8fc0a848913dc4593141bde9af63ac
+      internalID: -2107939841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e4189f47b7cd40baede35c1a209a3
+      internalID: -1395884554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c5542f4c5d124883326b07c01f17f
+      internalID: 655638568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e7bfaab2255d4ebd5d93e0b3f811a
+      internalID: 269648156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7998e8efbba0bc4c80b2bb11e9851f9
+      internalID: 1111030526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78fcfd57c59ae428a6896f9a0a9ad6
+      internalID: 866144006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6d1d583487a14889f4ce3e29c5b64
+      internalID: 938824710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b081ae3f5ade4fb513a7a501b4194
+      internalID: -1432788705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed71824150f8164cb1389479a192a0f
+      internalID: -830614614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2149f7f871a4b4aa98c9361f44454e
+      internalID: 617011167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33fe01486821c4685ee43858cdc96c
+      internalID: -1787498002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6432ef5e14cf46ba20b291d116eff
+      internalID: -1677647684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3585
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ffce53e61a704abc8c9992f026fa7
+      internalID: 546878773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43387db0d8124044899742cfaaecd057
+      internalID: -1843566973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229454ecdd79bc47af63afb6c7ccf29
+      internalID: 494312800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40fb93cb2ea5d8499a5ccb0ac808fd3
+      internalID: -1323238045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a616a1ec62dad439e13c4b28dc52b2
+      internalID: 548929458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8bcd93b1709f54e8d179218a065346
+      internalID: 2085466091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1122407de8427af4e85e3f854cf2551e
+      internalID: -1457019103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c4d717bcbbee499ac5ca446d5a8b2
+      internalID: -189466004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9673d4cff8405414895dae9e2bc9e9b9
+      internalID: 3333168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea907b140f945154f99e22192eb9b60d
+      internalID: -1290988321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69850e637a548264c9a9ae345cd5e80e
+      internalID: -1606576928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5306bdc44e62a5e40a5b4947a4b473a4
+      internalID: 7864311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3329
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe094d782e5269d408ca3847af5a9626
+      internalID: 2144283539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7255410856b6e4c8179049f0f62758
+      internalID: 839184188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac6d95db5b51c498c81d0e71b0ebdf
+      internalID: -2104966917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323616a31c441294cb589ce492f3e479
+      internalID: 2132660963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8a16c49a953a44ac4dd9511bb9cc1
+      internalID: 425508015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1bea284d3b2646a7b5f763b3df65c
+      internalID: -1544784819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d93cf60b73a14fb9b2e3279a8da05
+      internalID: -479591044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98146a3630d4d0541a09e62c92b51245
+      internalID: -2040129926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_43
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad94e42b330f8b41ae71cac9907269a
+      internalID: 1192778104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ade3a609a608478943c42199fe87b
+      internalID: 2075520338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f16a21847b9e4c806c38ee2e7cfa4
+      internalID: 2130908729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e6a97b0c586fd4abe6ed778d1ba351
+      internalID: 105456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3073
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773315695fe0101438370c43040289ba
+      internalID: -543962527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f19f3cba652e14a896ce23d7a7ca2c
+      internalID: 2058264531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a176cf3c241943bd064332be86f3f
+      internalID: -199154654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521544bd4124fb42bf24b350aeb1219
+      internalID: -311184026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2c51cabf705e4eb30da98bc5b75ed
+      internalID: 848182222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558ef65cd0b8c784492155ea5fd6b8d0
+      internalID: -1810262611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa559b4bd6d1b49af04711ef966ae3
+      internalID: -1852396343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9c035d27b6494486cf47256cc07a1
+      internalID: 1386949859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70bfd8897705c47ab2f76bc4c22859
+      internalID: 1165243374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf121115b51424e8e47eff7e9be0d3
+      internalID: 692552870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76450ee6292641489006c4cb1f9a3d3
+      internalID: -1966061143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca35ee28cc007140945ca0ea0ac28c7
+      internalID: 1337406955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2817
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4bf655bbcf00479d73b7b89f3ff0c
+      internalID: -156197216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cbe695e1e4cd745ba3f54e633c08a5
+      internalID: -1766739607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebd9c70e5d56af41ba5951bbee3b71d
+      internalID: -1062591537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008601eedf1bc9947af56853c9509883
+      internalID: 1106499194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb01c9afd1fcf549a961baabd291d41
+      internalID: -1122314394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2f92925e859c4a9b8f07dad4ac3be
+      internalID: 1027778895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f6465775216584eb7f34e5a1c7cbbf
+      internalID: -403384618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e20ffc029123643b941b07af3e9091
+      internalID: 1011271448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1523547239619c7448eb6abfea8770ca
+      internalID: 2033570084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764850345efcd0c4595a4e72a760329a
+      internalID: 76250829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53961d64e7b48444383760887e48c3b2
+      internalID: -780155417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d180843410d8741972ab7ad7576ca9
+      internalID: -1126661286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_71
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2561
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0d7593e2f41644a1e00b80dbb617d
+      internalID: 2083106610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319e11f920b29a4090c3e8ffd8a1739
+      internalID: -1195094209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1339112497b2d46bfe158dd5c440e0
+      internalID: 720270082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffec2d9dec95b74481c2b9ecf2eec6e
+      internalID: -802566043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59946bddb0144974fbb0b7b7b876b5d8
+      internalID: 1189328386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fbe39577c730d46a18b4b2477157d4
+      internalID: -1142496248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55440836a15362946b376eb3f4c7ee1b
+      internalID: 115673834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22009b064fb856e4e92bd8bbaa6e30f1
+      internalID: -896827166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_79
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bf2d9a9d139349a9890a0060e679e
+      internalID: -649780818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5db5b60001820b41839fd796211f7b4
+      internalID: -499557185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_81
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2bd4fb5d17734799a4aa09d6ca9c7
+      internalID: -164551216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41983c1437c64144966da03e5cc5fed
+      internalID: 2113549591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_83
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2305
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce773ec34c366424b8402a015207b12e
+      internalID: 140873106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e503664c72a2984abab9898639f131e
+      internalID: 483960337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130484505107d584f9a7ff2d0b7d6a72
+      internalID: 2006082907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c0e0c958e4244880cded2231c335e
+      internalID: 498463975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd26e8d4315de8429998721aefb0cf4
+      internalID: -1962376336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e01147d1f9ff41b609236899944ef
+      internalID: -297230326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2886bc29bd54047bf338f3a62c26f7
+      internalID: 826466183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389065b7d9544f34cbb2f831cdbcaa2e
+      internalID: 846645930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_91
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7af7925c76df547bb336963e793232
+      internalID: 890612311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb90cf0b05ca6c44859599f958e1b6e
+      internalID: -155970841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d9f286ec3c7b4caf720e0d06c3e9f
+      internalID: -694331236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d0e598fc55884f9b469e9b8466f60
+      internalID: -728345831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_95
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2049
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e4827a13b34b40bfca4c6c44b851d
+      internalID: 695293373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a389381358224d853e7743c47bef9
+      internalID: -1255333454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6812553ee4df3842a706c40ee160df5
+      internalID: -663719268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2bf38d04142f94ea70080f65f3d94f
+      internalID: 2102449575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151fbaad9845b0c4684cc0ad9ea37715
+      internalID: -1665450893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9967d55ac77194c9bf590be6d8ef66
+      internalID: 885439223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de713f24672b72f408cc3ba29b475ba0
+      internalID: 1422671726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae5fddea1e476498bbcd1b893988dc
+      internalID: -566531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_103
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3603e2da16f3429554b8260ad5378
+      internalID: -1942472557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c523c24f1bfd4588e3c72d6191e7c
+      internalID: 1971004146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1126bb9df2c99f74c8ef641b0771bd5c
+      internalID: 2119863806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee713d9997d48b94baadc6a2edb37e02
+      internalID: 1504571958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_107
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1793
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5a4402237195448a108226c367d1d0
+      internalID: 1318808023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f3b5ea70d95b14d8ffa7698f8ce3ae
+      internalID: 856970809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c04214c9553194093da4dd14765be2
+      internalID: -360144717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d84792e55ff684fb5acdccb6561a66
+      internalID: 252240706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07119a9881bc69741b9fc6633bda8069
+      internalID: -1064677930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d43e3ccf2ec8d48b6c8a8af19d0142
+      internalID: -353092509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82970b96ac57c3846abe6d8537625201
+      internalID: 1646840639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520aba29d3ea2740914516cc9efc982
+      internalID: -700701817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aad30545bb7f84c9bc6a146a8445a8
+      internalID: -1549464238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f2d753174a2c74ca1449ce1cf41f35
+      internalID: 704409766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e766cdd787b9439bee38897a7fed7
+      internalID: 2045463547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2340d4f4bb702f419a44055bf7a9ec4
+      internalID: 835566163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_119
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1537
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226a37d8e07bc14381e30aa50fde606
+      internalID: -1692088899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcacdc4993a9d8b418656a3c6fb74cc7
+      internalID: 927670689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41575030bc83d641a788f969b91fad7
+      internalID: 1937236845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a7be5d2fb08544793821437e9ae475
+      internalID: 846894907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aa43e7665102d4485c1c66a4b505ce
+      internalID: -1331916126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf239960a1d73f34abf6aadd62f5bec3
+      internalID: -396521287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fa3909ca63114aaab462f84651d83
+      internalID: 1299331503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462b3b92289e2e43aa361a8f7ac9a66
+      internalID: 218507544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_127
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1fa7c9209283e4f916073d3d683b5a
+      internalID: 1196353264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_128
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be142e318b72364e8623dfa363f549e
+      internalID: 351757881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_129
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cdfd9f4d23d1488f9347c5c0269d5
+      internalID: -410084110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_130
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3968e090daf65419e1f60cb427f376
+      internalID: 1052186113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_131
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1281
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e528efe3ac6524543bd9178bdff6070e
+      internalID: 983116062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5563629ab1bc4d811928ab7895e9c
+      internalID: 639546643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae01c9cb1aa22d46bd713d3a76fc632
+      internalID: -1325169842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaeef3223107c04db1b3c5b028abb08
+      internalID: -1244535371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11730b7c4a0da4d84b142c7419fb2d
+      internalID: -281531454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23c9974c3f03449ba534d240e01440
+      internalID: -800348662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf0fbe1aa86652479e212cd0ac8a5bd
+      internalID: -150445916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917ffb1975ff874ead849b4cf58e41e
+      internalID: 1525849977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_139
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035b12327bcf62469cf099aaa09f496
+      internalID: -726236436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d28bddd29e62944898ed37f8249f6ef
+      internalID: -520097444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_141
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23f7075e78f4c42bbcaeb87cce827a
+      internalID: 216795799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_142
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606e6d5c39b3b3a419bbf02d24a99d1d
+      internalID: 960391498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_143
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1025
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199665133da10ec40a14e4cce8b10a4b
+      internalID: 1690475664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e97e69cc02cae45a5f8a4aed3a388d
+      internalID: 2132828430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee7a158fab9c84eb0f0887d7c123fe
+      internalID: 1886819398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a508beedd0d28ef4bb608081087abd4d
+      internalID: 889724808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5efbcd696d3ee94fb6498747aba8849
+      internalID: 517909377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06196a7f0232a674d932f4b6e87efef6
+      internalID: 829138871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89234d1c7246e81469effdc5d3729471
+      internalID: -900892676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a623fce4b4ecb4b894d1c222b8cf61
+      internalID: -1943714261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_151
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da40701db5ed17d4184f6d0b368baedd
+      internalID: 81153676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_152
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51878a847d7791643a9222d03358b26e
+      internalID: 102356730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5971e53dfdb264242b83c1b767648189
+      internalID: -1074471550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_154
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0249cd0f8b8c154418c95d6c15965a69
+      internalID: 2012770740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_155
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 769
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7f04dcac3a7724395a29e702384d0d
+      internalID: 736533044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c0f2b0f564494e9fa5115ece81708
+      internalID: -23582445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21c37b889cc3841843aec749ba8b03
+      internalID: -712314065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66b023fc6c94cf4f87be999a5bf5b6e
+      internalID: 2111696582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37a7e1edb842b45baa511d0c73d23e
+      internalID: 921494481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15750b91a032e9d498e31d04603469c2
+      internalID: 1031574844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_161
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c4d93756dad040b1aaaeedbd38d5f
+      internalID: -1744646920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228e74e0211aa994388aa51b9df176f9
+      internalID: 733560278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_163
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4a630d61a44f540a57d3642392950b
+      internalID: -1437450200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05157bbc1c81d5c41812edcd2ee77aa4
+      internalID: 348806926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_165
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb0bd4163861824fa56b782739e028c
+      internalID: 858231089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_166
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa885caebb7e8489b1b4c0107f30dd
+      internalID: -831458006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_167
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 513
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886486206b6b95408229b035dec0423
+      internalID: 521243274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a1e8595e187348ac284f4f283a74e
+      internalID: -937486562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b8ab39b8e6664aa9f80b22ef2a272
+      internalID: -554703153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eb1cc9639909f4aa346c764e387a9e
+      internalID: 923881151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437edc5ebb427194c8653237007437d5
+      internalID: 1442132115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_172
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d74f54924ad24482f54d32f9396bb
+      internalID: 612117629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_173
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60dd6e9db380474cbb500a854bead98
+      internalID: 712012902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff79c9452f71c4094090721cc4dc00
+      internalID: -752081273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_175
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f085b93062fed4492c8e82f6ca57d1
+      internalID: 73033838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_176
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c8d5400300c1f45a171ed13ffdd4fd
+      internalID: 337538611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_177
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4e05bd651bd76468e0e4b791547419
+      internalID: 1441587410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_178
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bb3f387d557240b7c661f9fafc6e3
+      internalID: 1335134739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_179
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 257
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc8d155e59da34c9b631f7eb0f67ab
+      internalID: -722134311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085744c8574ffb945a38f9bb12abdd5a
+      internalID: -810265243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8914beba91234a2459ac52492aff0628
+      internalID: 2054401146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304e84c33e0587f4781099f412646a91
+      internalID: -983265546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_183
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bdbc49a671e1640b6fa4a64cde7130
+      internalID: -912627246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df630e331d24cfd46ae3e3eb2a072d30
+      internalID: -693952428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_185
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27647a275eea4ed4b980b38cd8404058
+      internalID: -2103177579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24deb427c30d5be419866f6fedcb189a
+      internalID: -2143997459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_187
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1
+        width: 73
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977cd3398405b8c4cb4501d048d3bd00
+      internalID: 462658229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_188
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1
+        width: 85
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3f3d908dafb54490a649433bd62fb
+      internalID: -553747094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_189
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66d6da4a0cfc14ea350f34869deefc
+      internalID: -775463778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_190
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb29a778773e441a10841d795b1919
+      internalID: -1197057610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Knife Hit - Knives_191
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1
+        width: 80
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d13b0ec38836c4f83255cf000ec423
+      internalID: -1445951660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d028eb094921954fa7789da532304a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Knife Hit - Knives_0: 1182113345
+      Mobile - Knife Hit - Knives_1: 215536478
+      Mobile - Knife Hit - Knives_10: 2004684716
+      Mobile - Knife Hit - Knives_100: 885439223
+      Mobile - Knife Hit - Knives_101: 1422671726
+      Mobile - Knife Hit - Knives_102: -566531282
+      Mobile - Knife Hit - Knives_103: -1942472557
+      Mobile - Knife Hit - Knives_104: 1971004146
+      Mobile - Knife Hit - Knives_105: 2119863806
+      Mobile - Knife Hit - Knives_106: 1504571958
+      Mobile - Knife Hit - Knives_107: 1318808023
+      Mobile - Knife Hit - Knives_108: 856970809
+      Mobile - Knife Hit - Knives_109: -360144717
+      Mobile - Knife Hit - Knives_11: -2107939841
+      Mobile - Knife Hit - Knives_110: 252240706
+      Mobile - Knife Hit - Knives_111: -1064677930
+      Mobile - Knife Hit - Knives_112: -353092509
+      Mobile - Knife Hit - Knives_113: 1646840639
+      Mobile - Knife Hit - Knives_114: -700701817
+      Mobile - Knife Hit - Knives_115: -1549464238
+      Mobile - Knife Hit - Knives_116: 704409766
+      Mobile - Knife Hit - Knives_117: 2045463547
+      Mobile - Knife Hit - Knives_118: 835566163
+      Mobile - Knife Hit - Knives_119: -1692088899
+      Mobile - Knife Hit - Knives_12: -1395884554
+      Mobile - Knife Hit - Knives_120: 927670689
+      Mobile - Knife Hit - Knives_121: 1937236845
+      Mobile - Knife Hit - Knives_122: 846894907
+      Mobile - Knife Hit - Knives_123: -1331916126
+      Mobile - Knife Hit - Knives_124: -396521287
+      Mobile - Knife Hit - Knives_125: 1299331503
+      Mobile - Knife Hit - Knives_126: 218507544
+      Mobile - Knife Hit - Knives_127: 1196353264
+      Mobile - Knife Hit - Knives_128: 351757881
+      Mobile - Knife Hit - Knives_129: -410084110
+      Mobile - Knife Hit - Knives_13: 655638568
+      Mobile - Knife Hit - Knives_130: 1052186113
+      Mobile - Knife Hit - Knives_131: 983116062
+      Mobile - Knife Hit - Knives_132: 639546643
+      Mobile - Knife Hit - Knives_133: -1325169842
+      Mobile - Knife Hit - Knives_134: -1244535371
+      Mobile - Knife Hit - Knives_135: -281531454
+      Mobile - Knife Hit - Knives_136: -800348662
+      Mobile - Knife Hit - Knives_137: -150445916
+      Mobile - Knife Hit - Knives_138: 1525849977
+      Mobile - Knife Hit - Knives_139: -726236436
+      Mobile - Knife Hit - Knives_14: 269648156
+      Mobile - Knife Hit - Knives_140: -520097444
+      Mobile - Knife Hit - Knives_141: 216795799
+      Mobile - Knife Hit - Knives_142: 960391498
+      Mobile - Knife Hit - Knives_143: 1690475664
+      Mobile - Knife Hit - Knives_144: 2132828430
+      Mobile - Knife Hit - Knives_145: 1886819398
+      Mobile - Knife Hit - Knives_146: 889724808
+      Mobile - Knife Hit - Knives_147: 517909377
+      Mobile - Knife Hit - Knives_148: 829138871
+      Mobile - Knife Hit - Knives_149: -900892676
+      Mobile - Knife Hit - Knives_15: 1111030526
+      Mobile - Knife Hit - Knives_150: -1943714261
+      Mobile - Knife Hit - Knives_151: 81153676
+      Mobile - Knife Hit - Knives_152: 102356730
+      Mobile - Knife Hit - Knives_153: -1074471550
+      Mobile - Knife Hit - Knives_154: 2012770740
+      Mobile - Knife Hit - Knives_155: 736533044
+      Mobile - Knife Hit - Knives_156: -23582445
+      Mobile - Knife Hit - Knives_157: -712314065
+      Mobile - Knife Hit - Knives_158: 2111696582
+      Mobile - Knife Hit - Knives_159: 921494481
+      Mobile - Knife Hit - Knives_16: 866144006
+      Mobile - Knife Hit - Knives_160: 1031574844
+      Mobile - Knife Hit - Knives_161: -1744646920
+      Mobile - Knife Hit - Knives_162: 733560278
+      Mobile - Knife Hit - Knives_163: -1437450200
+      Mobile - Knife Hit - Knives_164: 348806926
+      Mobile - Knife Hit - Knives_165: 858231089
+      Mobile - Knife Hit - Knives_166: -831458006
+      Mobile - Knife Hit - Knives_167: 521243274
+      Mobile - Knife Hit - Knives_168: -937486562
+      Mobile - Knife Hit - Knives_169: -554703153
+      Mobile - Knife Hit - Knives_17: 938824710
+      Mobile - Knife Hit - Knives_170: 923881151
+      Mobile - Knife Hit - Knives_171: 1442132115
+      Mobile - Knife Hit - Knives_172: 612117629
+      Mobile - Knife Hit - Knives_173: 712012902
+      Mobile - Knife Hit - Knives_174: -752081273
+      Mobile - Knife Hit - Knives_175: 73033838
+      Mobile - Knife Hit - Knives_176: 337538611
+      Mobile - Knife Hit - Knives_177: 1441587410
+      Mobile - Knife Hit - Knives_178: 1335134739
+      Mobile - Knife Hit - Knives_179: -722134311
+      Mobile - Knife Hit - Knives_18: -1432788705
+      Mobile - Knife Hit - Knives_180: -810265243
+      Mobile - Knife Hit - Knives_181: 2054401146
+      Mobile - Knife Hit - Knives_182: -983265546
+      Mobile - Knife Hit - Knives_183: -912627246
+      Mobile - Knife Hit - Knives_184: -693952428
+      Mobile - Knife Hit - Knives_185: -2103177579
+      Mobile - Knife Hit - Knives_186: -2143997459
+      Mobile - Knife Hit - Knives_187: 462658229
+      Mobile - Knife Hit - Knives_188: -553747094
+      Mobile - Knife Hit - Knives_189: -775463778
+      Mobile - Knife Hit - Knives_19: -830614614
+      Mobile - Knife Hit - Knives_190: -1197057610
+      Mobile - Knife Hit - Knives_191: -1445951660
+      Mobile - Knife Hit - Knives_2: 1487021259
+      Mobile - Knife Hit - Knives_20: 617011167
+      Mobile - Knife Hit - Knives_21: -1787498002
+      Mobile - Knife Hit - Knives_22: -1677647684
+      Mobile - Knife Hit - Knives_23: 546878773
+      Mobile - Knife Hit - Knives_24: -1843566973
+      Mobile - Knife Hit - Knives_25: 494312800
+      Mobile - Knife Hit - Knives_26: -1323238045
+      Mobile - Knife Hit - Knives_27: 548929458
+      Mobile - Knife Hit - Knives_28: 2085466091
+      Mobile - Knife Hit - Knives_29: -1457019103
+      Mobile - Knife Hit - Knives_3: -15740769
+      Mobile - Knife Hit - Knives_30: -189466004
+      Mobile - Knife Hit - Knives_31: 3333168
+      Mobile - Knife Hit - Knives_32: -1290988321
+      Mobile - Knife Hit - Knives_33: -1606576928
+      Mobile - Knife Hit - Knives_34: 7864311
+      Mobile - Knife Hit - Knives_35: 2144283539
+      Mobile - Knife Hit - Knives_36: 839184188
+      Mobile - Knife Hit - Knives_37: -2104966917
+      Mobile - Knife Hit - Knives_38: 2132660963
+      Mobile - Knife Hit - Knives_39: 425508015
+      Mobile - Knife Hit - Knives_4: 437708616
+      Mobile - Knife Hit - Knives_40: -1544784819
+      Mobile - Knife Hit - Knives_41: -479591044
+      Mobile - Knife Hit - Knives_42: -2040129926
+      Mobile - Knife Hit - Knives_43: 1192778104
+      Mobile - Knife Hit - Knives_44: 2075520338
+      Mobile - Knife Hit - Knives_45: 2130908729
+      Mobile - Knife Hit - Knives_46: 105456976
+      Mobile - Knife Hit - Knives_47: -543962527
+      Mobile - Knife Hit - Knives_48: 2058264531
+      Mobile - Knife Hit - Knives_49: -199154654
+      Mobile - Knife Hit - Knives_5: 1894108980
+      Mobile - Knife Hit - Knives_50: -311184026
+      Mobile - Knife Hit - Knives_51: 848182222
+      Mobile - Knife Hit - Knives_52: -1810262611
+      Mobile - Knife Hit - Knives_53: -1852396343
+      Mobile - Knife Hit - Knives_54: 1386949859
+      Mobile - Knife Hit - Knives_55: 1165243374
+      Mobile - Knife Hit - Knives_56: 692552870
+      Mobile - Knife Hit - Knives_57: -1966061143
+      Mobile - Knife Hit - Knives_58: 1337406955
+      Mobile - Knife Hit - Knives_59: -156197216
+      Mobile - Knife Hit - Knives_6: -928292455
+      Mobile - Knife Hit - Knives_60: -1766739607
+      Mobile - Knife Hit - Knives_61: -1062591537
+      Mobile - Knife Hit - Knives_62: 1106499194
+      Mobile - Knife Hit - Knives_63: -1122314394
+      Mobile - Knife Hit - Knives_64: 1027778895
+      Mobile - Knife Hit - Knives_65: -403384618
+      Mobile - Knife Hit - Knives_66: 1011271448
+      Mobile - Knife Hit - Knives_67: 2033570084
+      Mobile - Knife Hit - Knives_68: 76250829
+      Mobile - Knife Hit - Knives_69: -780155417
+      Mobile - Knife Hit - Knives_7: -148557259
+      Mobile - Knife Hit - Knives_70: -1126661286
+      Mobile - Knife Hit - Knives_71: 2083106610
+      Mobile - Knife Hit - Knives_72: -1195094209
+      Mobile - Knife Hit - Knives_73: 720270082
+      Mobile - Knife Hit - Knives_74: -802566043
+      Mobile - Knife Hit - Knives_75: 1189328386
+      Mobile - Knife Hit - Knives_76: -1142496248
+      Mobile - Knife Hit - Knives_77: 115673834
+      Mobile - Knife Hit - Knives_78: -896827166
+      Mobile - Knife Hit - Knives_79: -649780818
+      Mobile - Knife Hit - Knives_8: 678671699
+      Mobile - Knife Hit - Knives_80: -499557185
+      Mobile - Knife Hit - Knives_81: -164551216
+      Mobile - Knife Hit - Knives_82: 2113549591
+      Mobile - Knife Hit - Knives_83: 140873106
+      Mobile - Knife Hit - Knives_84: 483960337
+      Mobile - Knife Hit - Knives_85: 2006082907
+      Mobile - Knife Hit - Knives_86: 498463975
+      Mobile - Knife Hit - Knives_87: -1962376336
+      Mobile - Knife Hit - Knives_88: -297230326
+      Mobile - Knife Hit - Knives_89: 826466183
+      Mobile - Knife Hit - Knives_9: 873506557
+      Mobile - Knife Hit - Knives_90: 846645930
+      Mobile - Knife Hit - Knives_91: 890612311
+      Mobile - Knife Hit - Knives_92: -155970841
+      Mobile - Knife Hit - Knives_93: -694331236
+      Mobile - Knife Hit - Knives_94: -728345831
+      Mobile - Knife Hit - Knives_95: 695293373
+      Mobile - Knife Hit - Knives_96: -1255333454
+      Mobile - Knife Hit - Knives_97: -663719268
+      Mobile - Knife Hit - Knives_98: 2102449575
+      Mobile - Knife Hit - Knives_99: -1665450893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

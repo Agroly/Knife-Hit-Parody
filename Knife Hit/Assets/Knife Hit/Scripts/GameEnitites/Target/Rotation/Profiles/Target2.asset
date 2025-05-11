@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eef0332508a84dd44a0a810228311102, type: 3}
   m_Name: Target2
   m_EditorClassIdentifier: 
-  angle: 290
+  angle: -375
   durationMin: 3
   durationMax: 3.5
   rotateMode: 1

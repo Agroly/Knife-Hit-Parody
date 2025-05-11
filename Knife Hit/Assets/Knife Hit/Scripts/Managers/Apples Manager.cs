@@ -26,7 +26,7 @@ public class ApplesManager : MonoBehaviour
     }
     public void AddApples(int increment)
     {
-        currentApples += increment;
+        currentApples += 1000;
         UpdateApples();
     }
     public bool RemoveApples(int decrement)

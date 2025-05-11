@@ -4,9 +4,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(SpriteRenderer))]
 public class Knife : MonoBehaviour
-{
-    
-    [SerializeField] private KnifeSkinDataSO skin;
+{ 
     [SerializeField] private float shootForce = 10f;
     [SerializeField] private BoxCollider2D bladeCollider;
     [SerializeField] private PolygonCollider2D handleCollider;
@@ -23,6 +21,10 @@ public class Knife : MonoBehaviour
         DisableColliders();
         spriteRenderer = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();  // Получаем компонент Rigidbody2D
+    }
+    public void SetSelectedSprite()
+    {
+        spriteRenderer.sprite = KnifeSkinManager.Instance.GetSelectedSprite();
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -63,7 +65,7 @@ public class Knife : MonoBehaviour
 
     public void Shoot()
     {
-        if (rb != null && !IsStuck)
+        if (rb != null && !IsStuck && enabled)
         {
             bladeCollider.enabled = true;
             rb.linearVelocity = Vector2.zero;  // Обнуляем текущую скорость
