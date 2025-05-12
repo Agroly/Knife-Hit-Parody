@@ -8,7 +8,7 @@ public enum KnifeSkinsApples
     Compas,
     Fish,
     Pixel,
-    Key,
+    Kluch,
     PurpleSaw,
     Carrot,
     Sai

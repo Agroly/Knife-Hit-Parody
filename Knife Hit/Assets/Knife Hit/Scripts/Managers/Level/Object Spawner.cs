@@ -33,6 +33,7 @@ public class ObjectSpawner : MonoBehaviour
     [SerializeField] private float spawnRadius = 5f;
 
     private List<GameObject> apples = new List<GameObject>();
+    private Target lastTarget;
     public Knife SpawnKnife()
     {
         Knife knife = Instantiate(knifePrefab, knifeSpawnPoint.position, Quaternion.identity);
@@ -108,6 +109,7 @@ public class ObjectSpawner : MonoBehaviour
     {
         List<Target> targetList;
 
+
         if (level >= 1 && level <= 4)
         {
             targetList = OneToFourTargets;
@@ -121,6 +123,9 @@ public class ObjectSpawner : MonoBehaviour
             targetList = Bosses;
         }
         int randomIndex = Random.Range(0, targetList.Count);
+        if (lastTarget == targetList[randomIndex]) return ChooseTarget(level);
+
+        lastTarget = targetList[randomIndex];
         return targetList[randomIndex];
     }
 

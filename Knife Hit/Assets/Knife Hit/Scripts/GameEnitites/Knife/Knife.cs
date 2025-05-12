@@ -27,8 +27,22 @@ public class Knife : MonoBehaviour
         spriteRenderer.sprite = KnifeSkinManager.Instance.GetSelectedSprite();
     }
 
-    public void OnTriggerEnter2D(Collider2D collision)
+    //public void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (!IsStuck)
+    //    {
+    //        if (collision.gameObject.TryGetComponent<Target>(out var target))
+    //        {
+    //            StickToTarget(target.transform);
+    //            var hp = Instantiate(hitParticles);
+    //            hp.transform.position = target.transform.position;
+    //            target.Hit();
+    //        }
+    //    }
+    //}
+    private void OnCollisionEnter2D(Collision2D collision)
     {
+        Debug.Log("Collided with: " + collision.gameObject.name);
         if (!IsStuck)
         {
             if (collision.gameObject.TryGetComponent<Target>(out var target))
@@ -38,17 +52,14 @@ public class Knife : MonoBehaviour
                 hp.transform.position = target.transform.position;
                 target.Hit();
             }
-        }
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (!IsStuck)
-        {
-            Vector3 pos = collision.GetContact(0).point;
-            pos.z = 0f;
-            Instantiate(hitEffect, pos, Quaternion.identity);
-            AudioManager.Instance.PlaySFX(knifeHitSound);
-            StartCoroutine(BounceAndLose());
+            else
+            {
+                Vector3 pos = collision.GetContact(0).point;
+                pos.z = 0f;
+                Instantiate(hitEffect, pos, Quaternion.identity);
+                AudioManager.Instance.PlaySFX(knifeHitSound);
+                StartCoroutine(BounceAndLose());
+            }
         }
     }
 
@@ -59,7 +70,8 @@ public class Knife : MonoBehaviour
         rb.linearVelocity = Vector2.zero;
         rb.angularVelocity = 0f;
         rb.bodyType = RigidbodyType2D.Static;
-        transform.SetParent(targetTransform);
+        transform.SetParent(targetTransform, true);
+
         IsStuck = true;
     }
 

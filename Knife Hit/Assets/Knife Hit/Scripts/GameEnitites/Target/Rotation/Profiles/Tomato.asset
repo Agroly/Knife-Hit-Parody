@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   angle: 480
   durationMin: 3
-  durationMax: 3.5
+  durationMax: 3
   rotateMode: 1
   ease: 4
   loopType: 2

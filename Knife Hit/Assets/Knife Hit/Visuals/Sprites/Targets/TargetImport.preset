@@ -6,7 +6,7 @@ Preset:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TargetImpot
+  m_Name: TargetImport
   m_TargetType:
     m_NativeTypeID: 1006
     m_ManagedTypePPtr: {fileID: 0}
@@ -182,7 +182,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpritePixelsToUnits
-    value: 112
+    value: 255
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteBorder.x
@@ -274,7 +274,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_PlatformSettings.Array.data[0].m_MaxTextureSize
-    value: 256
+    value: 2048
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_PlatformSettings.Array.data[0].m_ResizeAlgorithm
@@ -418,7 +418,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_Name
-    value: "\u0420\u0435\u0441\u0443\u0440\u0441 11_0"
+    value: Tomato_0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_Rect.x
@@ -430,11 +430,11 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_Rect.width
-    value: 256
+    value: 566
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_Rect.height
-    value: 256
+    value: 566
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_Alignment
@@ -486,11 +486,11 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_SpriteID
-    value: 67e5166a30fc23af0800000000000000
+    value: f65894ce32d286f80800000000000000
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_InternalID
-    value: -418044200808784266
+    value: -8113185096396602001
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_Sprites.Array.data[0].m_Vertices.Array.size
@@ -562,11 +562,11 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_NameFileIdTable.Array.data[0].first
-    value: "\u0420\u0435\u0441\u0443\u0440\u0441 11_0"
+    value: Tomato_0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_SpriteSheet.m_NameFileIdTable.Array.data[0].second
-    value: -418044200808784266
+    value: -8113185096396602001
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_MipmapLimitGroupName

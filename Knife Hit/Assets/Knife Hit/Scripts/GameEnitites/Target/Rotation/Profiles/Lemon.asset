@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eef0332508a84dd44a0a810228311102, type: 3}
-  m_Name: Target2
+  m_Name: Lemon
   m_EditorClassIdentifier: 
-  angle: -375
-  durationMin: 3
-  durationMax: 3.2
-  rotateMode: 1
+  angle: 210
+  durationMin: 4
+  durationMax: 5
+  rotateMode: 0
   ease: 4
   loopType: 2
   loopNumber: -1

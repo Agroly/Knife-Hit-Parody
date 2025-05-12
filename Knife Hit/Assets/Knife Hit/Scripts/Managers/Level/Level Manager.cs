@@ -54,7 +54,7 @@ public class LevelManager : MonoBehaviour
             currentKnife = null;
             availableKnives -= 1;
             OnShoot.Invoke();
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.05f);
             if (availableKnives > 0)
             {
                 currentKnife = spawner.SpawnKnife();

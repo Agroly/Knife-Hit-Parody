@@ -1,7 +1,5 @@
 using System.Collections.Generic;
 using System.Linq;
-using Unity.PlasticSCM.Editor.WebApi;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -17,7 +15,7 @@ public class KnifeSkinManager : MonoBehaviour
     [SerializeField] private KnifeShopUI shopUI;
     
 
-    private HashSet<KnifeSkinData> unlockedSkins = new HashSet<KnifeSkinData>();
+    private HashSet<KnifeSkinData> unlockedSkins = new();
 
     private KnifeSkinData selectedKnife;
     private KnifeSkinData currentSelectedKnife;
@@ -44,12 +42,6 @@ public class KnifeSkinManager : MonoBehaviour
             if (System.Enum.TryParse(str, out KnifeSkinsApples skin))
                 unlockedSkins.Add(GetDataBySkin(skin));
         }
-
-        if (!unlockedSkins.Contains(GetDataBySkin(KnifeSkinsApples.Default)))
-        {
-            unlockedSkins.Add(GetDataBySkin(KnifeSkinsApples.Default));
-            SaveUnlockedSkins();
-        }
     }
     private KnifeSkinData GetDataBySkin(KnifeSkinsApples skin)
     {
@@ -58,7 +50,7 @@ public class KnifeSkinManager : MonoBehaviour
 
     private void SaveUnlockedSkins()
     {
-        string save = string.Join(",", unlockedSkins);
+        string save = string.Join(",", unlockedSkins.Select(data => data.skin.ToString()));
         PlayerPrefs.SetString("UnlockedAppleSkins", save);
         PlayerPrefs.Save();
     }
@@ -83,10 +75,7 @@ public class KnifeSkinManager : MonoBehaviour
         PlayerPrefs.SetString("SelectedSkin", save);
         PlayerPrefs.Save();
     }
-    //private void ChangeMainMenuImage(Sprite sprite)
-    //{
-    //    MainMenuKnife.sprite = sprite;
-    //}
+
     public void ChangeCurrentSelected(KnifeSkinData data)
     {
         selectedImage.sprite = data.sprite;
@@ -102,37 +91,13 @@ public class KnifeSkinManager : MonoBehaviour
     public void ShowBuyButton(KnifeSkinData data, bool isUnlocked) 
     {
         buyButton.gameObject.SetActive(!isUnlocked);
+        buyButton.GetComponentInChildren<Text>().text = data.appleCost.ToString();
     }
     public bool IsUnlocked(KnifeSkinsApples skin) => unlockedSkins.Contains(GetDataBySkin(skin));
 
     public bool IsSelected(KnifeSkinsApples skin) => selectedKnife.skin == skin;
 
     public Sprite GetSelectedSprite() => selectedKnife.sprite;
-
-    public void UnlockRandom()
-    {
-        if (!ApplesManager.Instance.RemoveApples(500)) return; 
-            // Получаем все скины, которые ещё не разблокированы
-          List<KnifeSkinData> availableSkins = skinDataList.Where(data => !unlockedSkins.Contains(data)).ToList();
-
-        // Если есть доступные скины для разблокировки
-        if (availableSkins.Count > 0)
-        {
-            // Выбираем случайный скин из оставшихся
-            KnifeSkinData randomSkinData = availableSkins[Random.Range(0, availableSkins.Count)];
-
-            // Разблокируем скин
-            unlockedSkins.Add(randomSkinData);
-
-            // Обновляем UI
-            ChangeCurrentSelected(randomSkinData);
-            SaveUnlockedSkins(); // Сохраняем изменения
-        }
-        else
-        {
-            Debug.Log("Нет доступных скинов для разблокировки.");
-        }
-    }
 
 
     public List<KnifeSkinData> GetAllSkins() => skinDataList;

@@ -50,8 +50,8 @@ MonoBehaviour:
   rotationController: {fileID: 6782390729845656847}
   hitClip: {fileID: 8300000, guid: f6186a61ebeea7845afe5fef05470b62, type: 3}
   destroyClip: {fileID: 8300000, guid: c540f7a8394747140ac858f042399387, type: 3}
-  minHits: 5
-  maxHits: 8
+  minHits: 7
+  maxHits: 10
 --- !u!114 &6782390729845656847
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -150,9 +150,9 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.45
+  m_Radius: 0.4

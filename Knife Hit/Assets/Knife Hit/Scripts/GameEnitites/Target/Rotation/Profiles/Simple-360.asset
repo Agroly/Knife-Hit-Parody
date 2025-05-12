@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Simple-360
   m_EditorClassIdentifier: 
   angle: -360
-  durationMin: 3
-  durationMax: 3.5
+  durationMin: 2.5
+  durationMax: 2.7
   rotateMode: 1
   ease: 1
   loopType: 0

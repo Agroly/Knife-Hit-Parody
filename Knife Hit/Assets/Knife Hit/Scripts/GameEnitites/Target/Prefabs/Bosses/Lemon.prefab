@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6471149758298826236}
   - component: {fileID: 5065611571423091090}
   m_Layer: 0
-  m_Name: Tomato
+  m_Name: Lemon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48,10 +48,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationController: {fileID: 6782390729845656847}
-  hitClip: {fileID: 8300000, guid: b16ccaf27f73e9d4e995f96c1c9ecef1, type: 3}
+  hitClip: {fileID: 8300000, guid: a288a274b34ccb04fb122589f1b79920, type: 3}
   destroyClip: {fileID: 8300000, guid: e0902596af62c0342b2ace19f2d296e2, type: 3}
-  bossKnifeHits: 12
-  _name: Tomato
+  bossKnifeHits: 15
+  _name: Lemon
 --- !u!114 &6782390729845656847
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109,7 +109,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 6
-  m_Sprite: {fileID: 21300000, guid: 9633c7c55cf14ca43b6674b33e8cb652, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0e3c5d2ecaaa0ec4289fc3cde2085d65, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

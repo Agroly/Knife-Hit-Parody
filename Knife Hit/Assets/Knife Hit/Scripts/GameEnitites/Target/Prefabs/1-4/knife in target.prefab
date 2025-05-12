@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8681855640289477509
+--- !u!1 &40959851827645686
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,70 +8,38 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1562033360577423434}
-  - component: {fileID: 4058957825491997741}
-  - component: {fileID: 6782390729845656847}
-  - component: {fileID: 6471149758298826236}
-  - component: {fileID: 5065611571423091090}
+  - component: {fileID: 5623469847393855143}
+  - component: {fileID: 1349545222907141343}
   m_Layer: 0
-  m_Name: Tomato
+  m_Name: knife in target
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1562033360577423434
+--- !u!4 &5623469847393855143
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8681855640289477509}
+  m_GameObject: {fileID: 40959851827645686}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -0.47792548, w: 0.8784004}
+  m_LocalPosition: {x: -0.96, y: -0.53, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 373431163779076054}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4058957825491997741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8681855640289477509}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f67a649c40fba9640b42b52badbf6e22, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rotationController: {fileID: 6782390729845656847}
-  hitClip: {fileID: 8300000, guid: b16ccaf27f73e9d4e995f96c1c9ecef1, type: 3}
-  destroyClip: {fileID: 8300000, guid: e0902596af62c0342b2ace19f2d296e2, type: 3}
-  bossKnifeHits: 12
-  _name: Tomato
---- !u!114 &6782390729845656847
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8681855640289477509}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eef3c475c5148d64183aecaee02b2801, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  profile: {fileID: 11400000, guid: 09f48953bc0321345b1a930eb76d216d, type: 2}
---- !u!212 &6471149758298826236
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -57.1}
+--- !u!212 &1349545222907141343
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8681855640289477509}
+  m_GameObject: {fileID: 40959851827645686}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -108,25 +76,57 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 6
-  m_Sprite: {fileID: 21300000, guid: 9633c7c55cf14ca43b6674b33e8cb652, type: 3}
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -900892676, guid: 55f72ad5bafe62441a2d7dfcd77e608b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.56, y: 2.56}
+  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &5065611571423091090
-CircleCollider2D:
+--- !u!1 &4386823150389838961
+GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8681855640289477509}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 373431163779076054}
+  - component: {fileID: 4825253417180963809}
+  m_Layer: 0
+  m_Name: Handle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &373431163779076054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4386823150389838961}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5623469847393855143}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &4825253417180963809
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4386823150389838961}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -155,4 +155,21 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.43
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.09966516, y: -0.22617596}
+      - {x: 0.13069662, y: -0.08587185}
+      - {x: 0.030989893, y: -0.0816004}
+      - {x: -0.1442374, y: -0.08955898}
+      - {x: -0.14185476, y: -0.1651107}
+      - {x: -0.14190724, y: -0.23864657}
+  m_UseDelaunayMesh: 0

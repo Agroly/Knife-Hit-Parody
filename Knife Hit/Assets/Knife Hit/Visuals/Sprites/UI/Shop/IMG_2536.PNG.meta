@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 114a1812d2e3ce6469af1e65d4b3bcd0
+guid: df8c85eb20b37ea489471a57bb3e8ceb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7944086754934138221
-    second: IMG_2466_0
+      213: 1059189218826053926
+    second: IMG_2536_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_2466_0
+      name: IMG_2536_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 107
-        width: 335
-        height: 169
+        x: 82
+        y: 307
+        width: 836
+        height: 379
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d652cb460d01f3e60800000000000000
-      internalID: 7944086754934138221
+      spriteID: 629ec029bfef2be00800000000000000
+      internalID: 1059189218826053926
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IMG_2466_0: 7944086754934138221
+      IMG_2536_0: 1059189218826053926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
